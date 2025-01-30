@@ -1,0 +1,11 @@
+Flask==1.1.2
+Flask-Cors==3.0.9
+Flask-RESTful==0.3.8
+gunicorn==20.0.4
+pandas==1.2.2
+scipy==1.6.0
+jsonpickle
+requests
+powerlaw
+sklearn
+numpy

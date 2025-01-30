@@ -1,0 +1,72 @@
+version: '3'
+
+services:
+    nginx:
+        build: ./services/nginx
+        container_name: calliope-nginx
+        ports:
+            - 7001:80
+            - 8002:443
+        volumes: 
+            - "./services/nginx/certs:/etc/nginx/certs"
+        depends_on: 
+            - fileserver
+            - generator
+
+    fileserver:
+        build: ./services/fileserver
+        container_name: calliope-fileserver
+        ports:
+            - 6008:6008
+        volumes:
+            - "./volumes/data:/server/csvs"
+        command: gunicorn -c gunicorn.py run:app
+        networks:
+            - algorithm
+
+    generator:
+        build: ./services/generator
+        container_name: calliope-generator
+        command: gunicorn -c gunicorn.py run:app
+        ports:
+            - 6010:6010
+        networks:
+            - algorithm
+
+    mongodb:
+        build: ./services/mongo
+        container_name: calliope-mongo
+        restart: always
+        ports:
+            - 6007:27017
+        volumes:
+            - "./volumes/mongo:/data/db"
+        command: 
+            ["--bind_ip_all"]
+        environment:
+            MONGO_INITDB_DATABASE: calliope
+            MONGO_INITDB_ROOT_USERNAME: admin
+            MONGO_INITDB_ROOT_PASSWORD: admin
+        networks:
+            - activity
+
+    activityserver:
+        build: ./services/activity
+        container_name: calliope-activityserver
+        depends_on: 
+            - mongodb
+        command: npm run start
+        ports:
+            - 7002:7002
+        networks:
+            - activity
+            - algorithm
+
+
+
+networks:
+    algorithm:
+        driver: bridge
+    activity:
+        driver: bridge
+        

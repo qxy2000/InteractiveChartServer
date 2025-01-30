@@ -1,0 +1,12 @@
+mongodb:
+    build: .
+    container_name: calliope-mongo
+    restart: always
+    ports:
+        - 6007:27017
+    command: 
+        ["--bind_ip_all"]
+    environment:
+        MONGO_INITDB_DATABASE: calliope
+        MONGO_INITDB_ROOT_USERNAME: admin
+        MONGO_INITDB_ROOT_PASSWORD: admin
