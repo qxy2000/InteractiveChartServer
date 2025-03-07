@@ -25,7 +25,8 @@ class Upload(Resource):
         # solving the problem of chinese filename by random generating 
         # a filename while saving the real filename in schema
         real_filename = file.filename
-        file.filename = '%s.csv'%(uuid.uuid4().hex)
+        # file.filename = '%s.csv'%(uuid.uuid4().hex)
+        file.filename = "data.csv"
         ip = request.remote_addr
         if request.headers.getlist("X-Real-IP"):
             ip = request.headers.getlist("X-Real-IP")[0]

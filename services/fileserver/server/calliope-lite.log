@@ -4252,3 +4252,1419 @@
 [2025-01-13 20:55:17,648] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [bca494bab3b146a0afc61b4fecb3b2d3.csv] in Calliope.
 [2025-01-13 20:55:17,831] INFO: 127.0.0.1 - - [13/Jan/2025 20:55:17] "[37mPOST /upload HTTP/1.1[0m" 200 -
 [2025-01-13 20:55:17,844] INFO: 127.0.0.1 - - [13/Jan/2025 20:55:17] "[37mGET /data/bca494bab3b146a0afc61b4fecb3b2d3.csv HTTP/1.1[0m" 200 -
+[2025-02-09 12:20:40,010] INFO: [127.0.0.1] requests to upload [3c5e38c1d5234b83b49d82be4bdcd9fa.csv].
+[2025-02-09 12:20:46,054] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [3c5e38c1d5234b83b49d82be4bdcd9fa.csv] in Calliope.
+[2025-02-09 12:20:46,398] INFO: 127.0.0.1 - - [09/Feb/2025 12:20:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 12:20:46,421] INFO: 127.0.0.1 - - [09/Feb/2025 12:20:46] "[37mGET /data/3c5e38c1d5234b83b49d82be4bdcd9fa.csv HTTP/1.1[0m" 200 -
+[2025-02-09 15:17:00,905] INFO: [127.0.0.1] requests to upload [3c7b2e3963884caa8b1c401da6a18d51.csv].
+[2025-02-09 15:17:04,462] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [3c7b2e3963884caa8b1c401da6a18d51.csv] in Calliope.
+[2025-02-09 15:17:04,656] INFO: 127.0.0.1 - - [09/Feb/2025 15:17:04] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 15:17:04,675] INFO: 127.0.0.1 - - [09/Feb/2025 15:17:04] "[37mGET /data/3c7b2e3963884caa8b1c401da6a18d51.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:06:47,087] INFO: [127.0.0.1] requests to upload [2cdd1f8ffb9345748fd4d261e4f88982.csv].
+[2025-02-09 17:06:50,307] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [2cdd1f8ffb9345748fd4d261e4f88982.csv] in Calliope.
+[2025-02-09 17:06:50,512] INFO: 127.0.0.1 - - [09/Feb/2025 17:06:50] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:06:50,528] INFO: 127.0.0.1 - - [09/Feb/2025 17:06:50] "[37mGET /data/2cdd1f8ffb9345748fd4d261e4f88982.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:11:51,570] INFO: [127.0.0.1] requests to upload [d5484abf1efb450b8edddd724d389727.csv].
+[2025-02-09 17:11:54,013] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [d5484abf1efb450b8edddd724d389727.csv] in Calliope.
+[2025-02-09 17:11:54,200] INFO: 127.0.0.1 - - [09/Feb/2025 17:11:54] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:11:54,214] INFO: 127.0.0.1 - - [09/Feb/2025 17:11:54] "[37mGET /data/d5484abf1efb450b8edddd724d389727.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:37:59,228] INFO: [127.0.0.1] requests to upload [5acddbcf216540288e287c160c2be47e.csv].
+[2025-02-09 17:38:04,041] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [5acddbcf216540288e287c160c2be47e.csv] in Calliope.
+[2025-02-09 17:38:04,325] INFO: 127.0.0.1 - - [09/Feb/2025 17:38:04] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:38:04,347] INFO: 127.0.0.1 - - [09/Feb/2025 17:38:04] "[37mGET /data/5acddbcf216540288e287c160c2be47e.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:43:18,518] INFO: [127.0.0.1] requests to upload [640fecfc4ddf4f3cbdbf01731a35c23e.csv].
+[2025-02-09 17:43:25,441] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [640fecfc4ddf4f3cbdbf01731a35c23e.csv] in Calliope.
+[2025-02-09 17:43:26,046] INFO: 127.0.0.1 - - [09/Feb/2025 17:43:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:43:26,100] INFO: 127.0.0.1 - - [09/Feb/2025 17:43:26] "[37mGET /data/640fecfc4ddf4f3cbdbf01731a35c23e.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:47:15,548] INFO: [127.0.0.1] requests to upload [402ddba5f11d403f9729ab6ce8b096ce.csv].
+[2025-02-09 17:47:22,425] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [402ddba5f11d403f9729ab6ce8b096ce.csv] in Calliope.
+[2025-02-09 17:47:22,819] INFO: 127.0.0.1 - - [09/Feb/2025 17:47:22] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:47:22,850] INFO: 127.0.0.1 - - [09/Feb/2025 17:47:22] "[37mGET /data/402ddba5f11d403f9729ab6ce8b096ce.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:51:15,074] INFO: [127.0.0.1] requests to upload [b59458fb643c413bbaf259afa9ad340a.csv].
+[2025-02-09 17:51:20,773] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [b59458fb643c413bbaf259afa9ad340a.csv] in Calliope.
+[2025-02-09 17:51:21,160] INFO: 127.0.0.1 - - [09/Feb/2025 17:51:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:51:21,194] INFO: 127.0.0.1 - - [09/Feb/2025 17:51:21] "[37mGET /data/b59458fb643c413bbaf259afa9ad340a.csv HTTP/1.1[0m" 200 -
+[2025-02-09 17:55:39,637] INFO: [127.0.0.1] requests to upload [b45a62de3a7e491f9ba4c44b106c7eb5.csv].
+[2025-02-09 17:55:44,009] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [b45a62de3a7e491f9ba4c44b106c7eb5.csv] in Calliope.
+[2025-02-09 17:55:44,305] INFO: 127.0.0.1 - - [09/Feb/2025 17:55:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 17:55:44,330] INFO: 127.0.0.1 - - [09/Feb/2025 17:55:44] "[37mGET /data/b45a62de3a7e491f9ba4c44b106c7eb5.csv HTTP/1.1[0m" 200 -
+[2025-02-09 18:20:08,673] INFO: [127.0.0.1] requests to upload [7c5ca910e5ed4281b15c392116f6f80e.csv].
+[2025-02-09 18:20:11,729] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [7c5ca910e5ed4281b15c392116f6f80e.csv] in Calliope.
+[2025-02-09 18:20:11,922] INFO: 127.0.0.1 - - [09/Feb/2025 18:20:11] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 18:20:11,939] INFO: 127.0.0.1 - - [09/Feb/2025 18:20:11] "[37mGET /data/7c5ca910e5ed4281b15c392116f6f80e.csv HTTP/1.1[0m" 200 -
+[2025-02-09 18:21:36,783] INFO: [127.0.0.1] requests to upload [be68178712ec4063984cc72adf4b3a47.csv].
+[2025-02-09 18:21:39,359] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [be68178712ec4063984cc72adf4b3a47.csv] in Calliope.
+[2025-02-09 18:21:39,540] INFO: 127.0.0.1 - - [09/Feb/2025 18:21:39] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 18:21:39,554] INFO: 127.0.0.1 - - [09/Feb/2025 18:21:39] "[37mGET /data/be68178712ec4063984cc72adf4b3a47.csv HTTP/1.1[0m" 200 -
+[2025-02-09 18:23:17,998] INFO: [127.0.0.1] requests to upload [c6f1f6ada3dd498095cb979ea1d4e8cb.csv].
+[2025-02-09 18:23:20,879] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [c6f1f6ada3dd498095cb979ea1d4e8cb.csv] in Calliope.
+[2025-02-09 18:23:21,086] INFO: 127.0.0.1 - - [09/Feb/2025 18:23:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 18:23:21,102] INFO: 127.0.0.1 - - [09/Feb/2025 18:23:21] "[37mGET /data/c6f1f6ada3dd498095cb979ea1d4e8cb.csv HTTP/1.1[0m" 200 -
+[2025-02-09 18:27:40,953] INFO: [127.0.0.1] requests to upload [cd628a9663384d3e850e634a961f2377.csv].
+[2025-02-09 18:27:45,261] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [cd628a9663384d3e850e634a961f2377.csv] in Calliope.
+[2025-02-09 18:27:45,546] INFO: 127.0.0.1 - - [09/Feb/2025 18:27:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 18:27:45,574] INFO: 127.0.0.1 - - [09/Feb/2025 18:27:45] "[37mGET /data/cd628a9663384d3e850e634a961f2377.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:02:16,802] INFO: [127.0.0.1] requests to upload [5867be1e7ed843e3b391c3c9dc5d6ddf.csv].
+[2025-02-09 22:02:21,476] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [5867be1e7ed843e3b391c3c9dc5d6ddf.csv] in Calliope.
+[2025-02-09 22:02:21,676] INFO: 127.0.0.1 - - [09/Feb/2025 22:02:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:02:21,693] INFO: 127.0.0.1 - - [09/Feb/2025 22:02:21] "[37mGET /data/5867be1e7ed843e3b391c3c9dc5d6ddf.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:04:29,106] INFO: [127.0.0.1] requests to upload [4a47c3016a814dc5a97fd02bcfe7bbbb.csv].
+[2025-02-09 22:04:31,874] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [4a47c3016a814dc5a97fd02bcfe7bbbb.csv] in Calliope.
+[2025-02-09 22:04:32,060] INFO: 127.0.0.1 - - [09/Feb/2025 22:04:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:04:32,074] INFO: 127.0.0.1 - - [09/Feb/2025 22:04:32] "[37mGET /data/4a47c3016a814dc5a97fd02bcfe7bbbb.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:07:39,946] INFO: [127.0.0.1] requests to upload [67f811ebdafa4611926dffc85ea4ca06.csv].
+[2025-02-09 22:07:42,600] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [67f811ebdafa4611926dffc85ea4ca06.csv] in Calliope.
+[2025-02-09 22:07:42,782] INFO: 127.0.0.1 - - [09/Feb/2025 22:07:42] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:07:42,798] INFO: 127.0.0.1 - - [09/Feb/2025 22:07:42] "[37mGET /data/67f811ebdafa4611926dffc85ea4ca06.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:10:57,319] INFO: [127.0.0.1] requests to upload [89e61297e7ee4f40a765cb0d9cde5778.csv].
+[2025-02-09 22:11:00,379] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [89e61297e7ee4f40a765cb0d9cde5778.csv] in Calliope.
+[2025-02-09 22:11:00,575] INFO: 127.0.0.1 - - [09/Feb/2025 22:11:00] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:11:00,591] INFO: 127.0.0.1 - - [09/Feb/2025 22:11:00] "[37mGET /data/89e61297e7ee4f40a765cb0d9cde5778.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:19:15,756] INFO: [127.0.0.1] requests to upload [e53edeb9fbd14f70aa0f17ed47a5ce23.csv].
+[2025-02-09 22:19:19,288] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [e53edeb9fbd14f70aa0f17ed47a5ce23.csv] in Calliope.
+[2025-02-09 22:19:19,486] INFO: 127.0.0.1 - - [09/Feb/2025 22:19:19] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:19:19,501] INFO: 127.0.0.1 - - [09/Feb/2025 22:19:19] "[37mGET /data/e53edeb9fbd14f70aa0f17ed47a5ce23.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:22:37,850] INFO: [127.0.0.1] requests to upload [58f3d059d97c457b882c856e39bac8bc.csv].
+[2025-02-09 22:22:40,277] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [58f3d059d97c457b882c856e39bac8bc.csv] in Calliope.
+[2025-02-09 22:22:40,462] INFO: 127.0.0.1 - - [09/Feb/2025 22:22:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:22:40,477] INFO: 127.0.0.1 - - [09/Feb/2025 22:22:40] "[37mGET /data/58f3d059d97c457b882c856e39bac8bc.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:25:36,801] INFO: [127.0.0.1] requests to upload [c56f79e10bfc45ff98e6c82ec9a20737.csv].
+[2025-02-09 22:25:39,651] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [c56f79e10bfc45ff98e6c82ec9a20737.csv] in Calliope.
+[2025-02-09 22:25:39,842] INFO: 127.0.0.1 - - [09/Feb/2025 22:25:39] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:25:39,857] INFO: 127.0.0.1 - - [09/Feb/2025 22:25:39] "[37mGET /data/c56f79e10bfc45ff98e6c82ec9a20737.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:28:53,255] INFO: [127.0.0.1] requests to upload [57b8fffe52d74f70870e970f760d317f.csv].
+[2025-02-09 22:28:58,014] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [57b8fffe52d74f70870e970f760d317f.csv] in Calliope.
+[2025-02-09 22:28:58,322] INFO: 127.0.0.1 - - [09/Feb/2025 22:28:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:28:58,346] INFO: 127.0.0.1 - - [09/Feb/2025 22:28:58] "[37mGET /data/57b8fffe52d74f70870e970f760d317f.csv HTTP/1.1[0m" 200 -
+[2025-02-09 22:52:02,893] INFO: [127.0.0.1] requests to upload [997afbed35a24f249f8acf0de4e885a0.csv].
+[2025-02-09 22:52:08,660] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [997afbed35a24f249f8acf0de4e885a0.csv] in Calliope.
+[2025-02-09 22:52:08,910] INFO: 127.0.0.1 - - [09/Feb/2025 22:52:08] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 22:52:08,934] INFO: 127.0.0.1 - - [09/Feb/2025 22:52:08] "[37mGET /data/997afbed35a24f249f8acf0de4e885a0.csv HTTP/1.1[0m" 200 -
+[2025-02-09 23:11:10,333] INFO: [127.0.0.1] requests to upload [7c35296ce2004c3ab656feb37de7676f.csv].
+[2025-02-09 23:11:13,905] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [7c35296ce2004c3ab656feb37de7676f.csv] in Calliope.
+[2025-02-09 23:11:14,122] INFO: 127.0.0.1 - - [09/Feb/2025 23:11:14] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 23:11:14,138] INFO: 127.0.0.1 - - [09/Feb/2025 23:11:14] "[37mGET /data/7c35296ce2004c3ab656feb37de7676f.csv HTTP/1.1[0m" 200 -
+[2025-02-09 23:30:49,702] INFO: [127.0.0.1] requests to upload [f7870d812fec4bf6bbe9f9e50da8c43b.csv].
+[2025-02-09 23:30:56,832] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [f7870d812fec4bf6bbe9f9e50da8c43b.csv] in Calliope.
+[2025-02-09 23:30:57,119] INFO: 127.0.0.1 - - [09/Feb/2025 23:30:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-09 23:30:57,145] INFO: 127.0.0.1 - - [09/Feb/2025 23:30:57] "[37mGET /data/f7870d812fec4bf6bbe9f9e50da8c43b.csv HTTP/1.1[0m" 200 -
+[2025-02-11 17:09:07,803] INFO: [127.0.0.1] requests to upload [06543445bdbf4bd1a6426b948b24e721.csv].
+[2025-02-11 17:09:15,310] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [06543445bdbf4bd1a6426b948b24e721.csv] in Calliope.
+[2025-02-11 17:09:15,531] INFO: 127.0.0.1 - - [11/Feb/2025 17:09:15] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 17:09:15,558] INFO: 127.0.0.1 - - [11/Feb/2025 17:09:15] "[37mGET /data/06543445bdbf4bd1a6426b948b24e721.csv HTTP/1.1[0m" 200 -
+[2025-02-11 17:28:21,149] INFO: [127.0.0.1] requests to upload [be7c69007c3341da9c1d3619f631b920.csv].
+[2025-02-11 17:28:24,232] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [be7c69007c3341da9c1d3619f631b920.csv] in Calliope.
+[2025-02-11 17:28:24,429] INFO: 127.0.0.1 - - [11/Feb/2025 17:28:24] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 17:28:24,446] INFO: 127.0.0.1 - - [11/Feb/2025 17:28:24] "[37mGET /data/be7c69007c3341da9c1d3619f631b920.csv HTTP/1.1[0m" 200 -
+[2025-02-11 17:39:10,449] INFO: [127.0.0.1] requests to upload [a9cd71de05ba40bfae36f7dfc7751b17.csv].
+[2025-02-11 17:39:13,676] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [a9cd71de05ba40bfae36f7dfc7751b17.csv] in Calliope.
+[2025-02-11 17:39:13,881] INFO: 127.0.0.1 - - [11/Feb/2025 17:39:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 17:39:13,898] INFO: 127.0.0.1 - - [11/Feb/2025 17:39:13] "[37mGET /data/a9cd71de05ba40bfae36f7dfc7751b17.csv HTTP/1.1[0m" 200 -
+[2025-02-11 17:43:39,322] INFO: [127.0.0.1] requests to upload [18d33be7c9ec44fc99c43a2c1d076fe7.csv].
+[2025-02-11 17:43:42,260] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [18d33be7c9ec44fc99c43a2c1d076fe7.csv] in Calliope.
+[2025-02-11 17:43:42,458] INFO: 127.0.0.1 - - [11/Feb/2025 17:43:42] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 17:43:42,475] INFO: 127.0.0.1 - - [11/Feb/2025 17:43:42] "[37mGET /data/18d33be7c9ec44fc99c43a2c1d076fe7.csv HTTP/1.1[0m" 200 -
+[2025-02-11 17:49:45,598] INFO: [127.0.0.1] requests to upload [43c54cfcbf9743a2abb84dc55cbd32c8.csv].
+[2025-02-11 17:49:48,892] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [43c54cfcbf9743a2abb84dc55cbd32c8.csv] in Calliope.
+[2025-02-11 17:49:49,101] INFO: 127.0.0.1 - - [11/Feb/2025 17:49:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 17:49:49,117] INFO: 127.0.0.1 - - [11/Feb/2025 17:49:49] "[37mGET /data/43c54cfcbf9743a2abb84dc55cbd32c8.csv HTTP/1.1[0m" 200 -
+[2025-02-11 18:45:42,759] INFO: [127.0.0.1] requests to upload [940f0ad25c3a496b8168e09d792c0d76.csv].
+[2025-02-11 18:45:45,795] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [940f0ad25c3a496b8168e09d792c0d76.csv] in Calliope.
+[2025-02-11 18:45:46,003] INFO: 127.0.0.1 - - [11/Feb/2025 18:45:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 18:45:46,018] INFO: 127.0.0.1 - - [11/Feb/2025 18:45:46] "[37mGET /data/940f0ad25c3a496b8168e09d792c0d76.csv HTTP/1.1[0m" 200 -
+[2025-02-11 19:01:21,198] INFO: [127.0.0.1] requests to upload [a76095dd09fe416ca94bb893dd3e0ce7.csv].
+[2025-02-11 19:01:26,145] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [a76095dd09fe416ca94bb893dd3e0ce7.csv] in Calliope.
+[2025-02-11 19:01:26,346] INFO: 127.0.0.1 - - [11/Feb/2025 19:01:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 19:01:26,362] INFO: 127.0.0.1 - - [11/Feb/2025 19:01:26] "[37mGET /data/a76095dd09fe416ca94bb893dd3e0ce7.csv HTTP/1.1[0m" 200 -
+[2025-02-11 20:19:40,793] INFO: [127.0.0.1] requests to upload [86a9c61e42ef48c8ae743918b9673956.csv].
+[2025-02-11 20:19:45,595] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [86a9c61e42ef48c8ae743918b9673956.csv] in Calliope.
+[2025-02-11 20:19:45,799] INFO: 127.0.0.1 - - [11/Feb/2025 20:19:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 20:19:45,815] INFO: 127.0.0.1 - - [11/Feb/2025 20:19:45] "[37mGET /data/86a9c61e42ef48c8ae743918b9673956.csv HTTP/1.1[0m" 200 -
+[2025-02-11 20:34:31,101] INFO: [127.0.0.1] requests to upload [0e1f7d07620244e5a6a6a5eb9745cc35.csv].
+[2025-02-11 20:34:34,440] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [0e1f7d07620244e5a6a6a5eb9745cc35.csv] in Calliope.
+[2025-02-11 20:34:34,658] INFO: 127.0.0.1 - - [11/Feb/2025 20:34:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 20:34:34,674] INFO: 127.0.0.1 - - [11/Feb/2025 20:34:34] "[37mGET /data/0e1f7d07620244e5a6a6a5eb9745cc35.csv HTTP/1.1[0m" 200 -
+[2025-02-11 20:37:59,438] INFO: [127.0.0.1] requests to upload [7e398bd8317a40c194e097d1dea129f5.csv].
+[2025-02-11 20:38:02,155] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [7e398bd8317a40c194e097d1dea129f5.csv] in Calliope.
+[2025-02-11 20:38:02,338] INFO: 127.0.0.1 - - [11/Feb/2025 20:38:02] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 20:38:02,356] INFO: 127.0.0.1 - - [11/Feb/2025 20:38:02] "[37mGET /data/7e398bd8317a40c194e097d1dea129f5.csv HTTP/1.1[0m" 200 -
+[2025-02-11 20:55:39,407] INFO: [127.0.0.1] requests to upload [c9fecc6ab0eb4c9b8f24d255a9447502.csv].
+[2025-02-11 20:55:43,046] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [c9fecc6ab0eb4c9b8f24d255a9447502.csv] in Calliope.
+[2025-02-11 20:55:43,251] INFO: 127.0.0.1 - - [11/Feb/2025 20:55:43] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 20:55:43,267] INFO: 127.0.0.1 - - [11/Feb/2025 20:55:43] "[37mGET /data/c9fecc6ab0eb4c9b8f24d255a9447502.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:04:33,295] INFO: [127.0.0.1] requests to upload [bbe0f72a889d44c9ac075ecc86be955f.csv].
+[2025-02-11 21:04:36,204] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [bbe0f72a889d44c9ac075ecc86be955f.csv] in Calliope.
+[2025-02-11 21:04:36,400] INFO: 127.0.0.1 - - [11/Feb/2025 21:04:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:04:36,419] INFO: 127.0.0.1 - - [11/Feb/2025 21:04:36] "[37mGET /data/bbe0f72a889d44c9ac075ecc86be955f.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:10:18,795] INFO: [127.0.0.1] requests to upload [41f6c78110674959a5531d8b8306e728.csv].
+[2025-02-11 21:10:22,037] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [41f6c78110674959a5531d8b8306e728.csv] in Calliope.
+[2025-02-11 21:10:22,247] INFO: 127.0.0.1 - - [11/Feb/2025 21:10:22] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:10:22,261] INFO: 127.0.0.1 - - [11/Feb/2025 21:10:22] "[37mGET /data/41f6c78110674959a5531d8b8306e728.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:14:24,210] INFO: [127.0.0.1] requests to upload [e93d28c9d80a46bf9c30e92f3359053b.csv].
+[2025-02-11 21:14:26,942] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [e93d28c9d80a46bf9c30e92f3359053b.csv] in Calliope.
+[2025-02-11 21:14:27,120] INFO: 127.0.0.1 - - [11/Feb/2025 21:14:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:14:27,134] INFO: 127.0.0.1 - - [11/Feb/2025 21:14:27] "[37mGET /data/e93d28c9d80a46bf9c30e92f3359053b.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:14:43,972] INFO: [127.0.0.1] requests to upload [e16f948e725d43d495931501f18fa76f.csv].
+[2025-02-11 21:14:46,663] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [e16f948e725d43d495931501f18fa76f.csv] in Calliope.
+[2025-02-11 21:14:46,859] INFO: 127.0.0.1 - - [11/Feb/2025 21:14:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:14:46,875] INFO: 127.0.0.1 - - [11/Feb/2025 21:14:46] "[37mGET /data/e16f948e725d43d495931501f18fa76f.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:15:22,675] INFO: [127.0.0.1] requests to upload [231c712017a34ddaaf44220ff8ac9e2c.csv].
+[2025-02-11 21:15:25,286] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [231c712017a34ddaaf44220ff8ac9e2c.csv] in Calliope.
+[2025-02-11 21:15:25,476] INFO: 127.0.0.1 - - [11/Feb/2025 21:15:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:15:25,492] INFO: 127.0.0.1 - - [11/Feb/2025 21:15:25] "[37mGET /data/231c712017a34ddaaf44220ff8ac9e2c.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:24:05,674] INFO: [127.0.0.1] requests to upload [ee3166dfda1b4ff1ae10fc48eb09987a.csv].
+[2025-02-11 21:24:08,127] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [ee3166dfda1b4ff1ae10fc48eb09987a.csv] in Calliope.
+[2025-02-11 21:24:08,295] INFO: 127.0.0.1 - - [11/Feb/2025 21:24:08] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:24:08,308] INFO: 127.0.0.1 - - [11/Feb/2025 21:24:08] "[37mGET /data/ee3166dfda1b4ff1ae10fc48eb09987a.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:25:40,287] INFO: [127.0.0.1] requests to upload [2da5296f9b434d30be358ef6aafe5a80.csv].
+[2025-02-11 21:25:42,821] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [2da5296f9b434d30be358ef6aafe5a80.csv] in Calliope.
+[2025-02-11 21:25:43,012] INFO: 127.0.0.1 - - [11/Feb/2025 21:25:43] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:25:43,029] INFO: 127.0.0.1 - - [11/Feb/2025 21:25:43] "[37mGET /data/2da5296f9b434d30be358ef6aafe5a80.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:27:45,341] INFO: [127.0.0.1] requests to upload [64d3e99a41674d93866e128b92be9145.csv].
+[2025-02-11 21:27:49,104] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [64d3e99a41674d93866e128b92be9145.csv] in Calliope.
+[2025-02-11 21:27:49,313] INFO: 127.0.0.1 - - [11/Feb/2025 21:27:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:27:49,330] INFO: 127.0.0.1 - - [11/Feb/2025 21:27:49] "[37mGET /data/64d3e99a41674d93866e128b92be9145.csv HTTP/1.1[0m" 200 -
+[2025-02-11 21:29:11,089] INFO:  * Detected change in '/Users/qxy2000/IDVX/InteractiveChart/server/services/fileserver/server/app/api/upload.py', reloading
+[2025-02-11 21:47:50,096] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 21:47:53,249] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 21:47:53,466] INFO: 127.0.0.1 - - [11/Feb/2025 21:47:53] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:52:56,669] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 21:52:59,683] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 21:52:59,885] INFO: 127.0.0.1 - - [11/Feb/2025 21:52:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 21:56:05,221] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 21:56:07,739] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 21:56:07,922] INFO: 127.0.0.1 - - [11/Feb/2025 21:56:07] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 22:07:11,933] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 22:07:14,813] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 22:07:15,007] INFO: 127.0.0.1 - - [11/Feb/2025 22:07:15] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 22:15:13,995] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 22:15:16,799] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 22:15:16,993] INFO: 127.0.0.1 - - [11/Feb/2025 22:15:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 22:25:06,937] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 22:25:09,701] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 22:25:09,899] INFO: 127.0.0.1 - - [11/Feb/2025 22:25:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 22:38:54,785] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 22:38:57,957] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 22:38:58,192] INFO: 127.0.0.1 - - [11/Feb/2025 22:38:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 22:44:59,049] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 22:45:01,613] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 22:45:01,805] INFO: 127.0.0.1 - - [11/Feb/2025 22:45:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 22:56:44,978] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 22:56:49,642] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 22:56:49,860] INFO: 127.0.0.1 - - [11/Feb/2025 22:56:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 23:28:39,561] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 23:28:45,076] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 23:28:45,275] INFO: 127.0.0.1 - - [11/Feb/2025 23:28:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 23:29:02,215] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 23:29:03,120] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 23:29:03,188] INFO: 127.0.0.1 - - [11/Feb/2025 23:29:03] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 23:29:22,046] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 23:29:22,929] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 23:29:22,998] INFO: 127.0.0.1 - - [11/Feb/2025 23:29:22] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-11 23:30:17,017] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-11 23:30:18,586] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-11 23:30:18,698] INFO: 127.0.0.1 - - [11/Feb/2025 23:30:18] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 11:53:59,591] INFO: 127.0.0.1 - - [12/Feb/2025 11:53:59] "[37mGET /data/data.csv HTTP/1.1[0m" 200 -
+[2025-02-12 12:24:19,188] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-12 12:24:24,985] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-12 12:24:25,198] INFO: 127.0.0.1 - - [12/Feb/2025 12:24:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 12:24:25,214] INFO: 127.0.0.1 - - [12/Feb/2025 12:24:25] "[37mGET /data/data.csv HTTP/1.1[0m" 200 -
+[2025-02-12 12:24:35,268] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-12 12:24:36,596] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-12 12:24:36,690] INFO: 127.0.0.1 - - [12/Feb/2025 12:24:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 12:25:27,707] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-12 12:25:28,570] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-12 12:25:28,628] INFO: 127.0.0.1 - - [12/Feb/2025 12:25:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 13:57:56,741] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-12 13:57:58,659] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-12 13:57:58,743] INFO: 127.0.0.1 - - [12/Feb/2025 13:57:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 14:14:26,019] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-12 14:14:27,177] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-12 14:14:27,255] INFO: 127.0.0.1 - - [12/Feb/2025 14:14:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 14:17:10,195] INFO:  * Detected change in '/Users/qxy2000/IDVX/InteractiveChart/server/services/fileserver/server/app/api/upload.py', reloading
+[2025-02-12 14:17:23,264] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 14:17:24,510] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 14:17:24,593] INFO: 127.0.0.1 - - [12/Feb/2025 14:17:24] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 14:17:24,608] INFO: 127.0.0.1 - - [12/Feb/2025 14:17:24] "[37mGET /data/data01.csv HTTP/1.1[0m" 200 -
+[2025-02-12 14:17:37,427] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 14:17:40,286] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 14:17:40,505] INFO: 127.0.0.1 - - [12/Feb/2025 14:17:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 14:19:48,773] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 14:19:51,225] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 14:19:51,405] INFO: 127.0.0.1 - - [12/Feb/2025 14:19:51] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 14:19:51,418] INFO: 127.0.0.1 - - [12/Feb/2025 14:19:51] "[37mOPTIONS /data/data01.csv?t=1739341191414 HTTP/1.1[0m" 200 -
+[2025-02-12 14:19:51,421] INFO: 127.0.0.1 - - [12/Feb/2025 14:19:51] "[37mGET /data/data01.csv?t=1739341191414 HTTP/1.1[0m" 200 -
+[2025-02-12 14:20:00,760] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 14:20:01,594] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 14:20:01,665] INFO: 127.0.0.1 - - [12/Feb/2025 14:20:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 14:20:01,680] INFO: 127.0.0.1 - - [12/Feb/2025 14:20:01] "[37mOPTIONS /data/data01.csv?t=1739341201676 HTTP/1.1[0m" 200 -
+[2025-02-12 14:20:01,683] INFO: 127.0.0.1 - - [12/Feb/2025 14:20:01] "[37mGET /data/data01.csv?t=1739341201676 HTTP/1.1[0m" 200 -
+[2025-02-12 15:20:55,121] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 15:20:58,267] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 15:20:58,461] INFO: 127.0.0.1 - - [12/Feb/2025 15:20:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 15:20:58,476] INFO: 127.0.0.1 - - [12/Feb/2025 15:20:58] "[37mOPTIONS /data/data01.csv?t=1739344858472 HTTP/1.1[0m" 200 -
+[2025-02-12 15:20:58,480] INFO: 127.0.0.1 - - [12/Feb/2025 15:20:58] "[37mGET /data/data01.csv?t=1739344858472 HTTP/1.1[0m" 200 -
+[2025-02-12 15:22:31,060] INFO:  * Detected change in '/Users/qxy2000/IDVX/InteractiveChart/server/services/fileserver/server/app/api/upload.py', reloading
+[2025-02-12 15:22:55,055] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 15:22:58,108] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 15:22:58,297] INFO: 127.0.0.1 - - [12/Feb/2025 15:22:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 15:22:58,312] INFO: 127.0.0.1 - - [12/Feb/2025 15:22:58] "[37mOPTIONS /data/data01.csv?t=1739344978309 HTTP/1.1[0m" 200 -
+[2025-02-12 15:22:58,318] INFO: 127.0.0.1 - - [12/Feb/2025 15:22:58] "[37mGET /data/data01.csv?t=1739344978309 HTTP/1.1[0m" 200 -
+[2025-02-12 15:27:37,921] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 15:27:40,263] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 15:27:40,434] INFO: 127.0.0.1 - - [12/Feb/2025 15:27:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 15:27:40,445] INFO: 127.0.0.1 - - [12/Feb/2025 15:27:40] "[37mOPTIONS /data/data01.csv?t=1739345260442 HTTP/1.1[0m" 200 -
+[2025-02-12 15:27:40,448] INFO: 127.0.0.1 - - [12/Feb/2025 15:27:40] "[37mGET /data/data01.csv?t=1739345260442 HTTP/1.1[0m" 200 -
+[2025-02-12 15:35:06,567] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 15:35:09,618] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 15:35:09,816] INFO: 127.0.0.1 - - [12/Feb/2025 15:35:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 15:35:09,829] INFO: 127.0.0.1 - - [12/Feb/2025 15:35:09] "[37mOPTIONS /data/data01.csv?t=1739345709826 HTTP/1.1[0m" 200 -
+[2025-02-12 15:35:09,833] INFO: 127.0.0.1 - - [12/Feb/2025 15:35:09] "[37mGET /data/data01.csv?t=1739345709826 HTTP/1.1[0m" 200 -
+[2025-02-12 15:43:06,647] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 15:43:09,181] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 15:43:09,359] INFO: 127.0.0.1 - - [12/Feb/2025 15:43:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 15:43:09,370] INFO: 127.0.0.1 - - [12/Feb/2025 15:43:09] "[37mOPTIONS /data/data01.csv?t=1739346189367 HTTP/1.1[0m" 200 -
+[2025-02-12 15:43:09,374] INFO: 127.0.0.1 - - [12/Feb/2025 15:43:09] "[37mGET /data/data01.csv?t=1739346189367 HTTP/1.1[0m" 200 -
+[2025-02-12 16:10:45,526] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 16:10:48,599] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 16:10:48,806] INFO: 127.0.0.1 - - [12/Feb/2025 16:10:48] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 16:10:48,821] INFO: 127.0.0.1 - - [12/Feb/2025 16:10:48] "[37mOPTIONS /data/data01.csv?t=1739347848818 HTTP/1.1[0m" 200 -
+[2025-02-12 16:10:48,826] INFO: 127.0.0.1 - - [12/Feb/2025 16:10:48] "[37mGET /data/data01.csv?t=1739347848818 HTTP/1.1[0m" 200 -
+[2025-02-12 16:31:26,634] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-12 16:31:29,759] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-12 16:31:29,956] INFO: 127.0.0.1 - - [12/Feb/2025 16:31:29] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-12 16:31:29,970] INFO: 127.0.0.1 - - [12/Feb/2025 16:31:29] "[37mOPTIONS /data/data01.csv?t=1739349089966 HTTP/1.1[0m" 200 -
+[2025-02-12 16:31:29,973] INFO: 127.0.0.1 - - [12/Feb/2025 16:31:29] "[37mGET /data/data01.csv?t=1739349089966 HTTP/1.1[0m" 200 -
+[2025-02-13 09:28:07,603] INFO: 127.0.0.1 - - [13/Feb/2025 09:28:07] "[37mGET /data/data.csv HTTP/1.1[0m" 200 -
+[2025-02-13 09:28:29,430] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-13 09:28:34,743] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-13 09:28:34,946] INFO: 127.0.0.1 - - [13/Feb/2025 09:28:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:28:34,961] INFO: 127.0.0.1 - - [13/Feb/2025 09:28:34] "[37mOPTIONS /data/data01.csv?t=1739410114956 HTTP/1.1[0m" 200 -
+[2025-02-13 09:28:34,964] INFO: 127.0.0.1 - - [13/Feb/2025 09:28:34] "[37mGET /data/data01.csv?t=1739410114956 HTTP/1.1[0m" 200 -
+[2025-02-13 09:30:03,770] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-13 09:30:06,393] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-13 09:30:06,572] INFO: 127.0.0.1 - - [13/Feb/2025 09:30:06] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:30:06,584] INFO: 127.0.0.1 - - [13/Feb/2025 09:30:06] "[37mOPTIONS /data/data01.csv?t=1739410206580 HTTP/1.1[0m" 200 -
+[2025-02-13 09:30:06,587] INFO: 127.0.0.1 - - [13/Feb/2025 09:30:06] "[37mGET /data/data01.csv?t=1739410206580 HTTP/1.1[0m" 200 -
+[2025-02-13 09:43:56,444] INFO: [127.0.0.1] requests to upload [data01.csv].
+[2025-02-13 09:43:59,065] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data01.csv] in Calliope.
+[2025-02-13 09:43:59,229] INFO: 127.0.0.1 - - [13/Feb/2025 09:43:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:43:59,242] INFO: 127.0.0.1 - - [13/Feb/2025 09:43:59] "[37mOPTIONS /data/data01.csv?t=1739411039239 HTTP/1.1[0m" 200 -
+[2025-02-13 09:43:59,244] INFO: 127.0.0.1 - - [13/Feb/2025 09:43:59] "[37mGET /data/data01.csv?t=1739411039239 HTTP/1.1[0m" 200 -
+[2025-02-13 09:45:04,003] INFO:  * Detected change in '/Users/qxy2000/IDVX/InteractiveChart/server/services/fileserver/server/app/api/upload.py', reloading
+[2025-02-13 09:46:02,631] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 09:46:05,896] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 09:46:06,096] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:06] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:06,109] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:06] "[37mOPTIONS /data/data.csv?t=1739411166106 HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:06,113] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:06] "[37mGET /data/data.csv?t=1739411166106 HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:13,810] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 09:46:14,665] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 09:46:14,738] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:14] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:14,752] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:14] "[37mOPTIONS /data/data.csv?t=1739411174749 HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:14,757] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:14] "[37mGET /data/data.csv?t=1739411174749 HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:23,703] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 09:46:26,221] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 09:46:26,401] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:26,416] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:26] "[37mOPTIONS /data/data.csv?t=1739411186413 HTTP/1.1[0m" 200 -
+[2025-02-13 09:46:26,419] INFO: 127.0.0.1 - - [13/Feb/2025 09:46:26] "[37mGET /data/data.csv?t=1739411186413 HTTP/1.1[0m" 200 -
+[2025-02-13 09:47:44,943] INFO:  * Detected change in '/Users/qxy2000/IDVX/InteractiveChart/server/services/fileserver/server/app/api/upload.py', reloading
+[2025-02-13 09:50:24,382] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 09:50:27,967] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 09:50:28,181] INFO: 127.0.0.1 - - [13/Feb/2025 09:50:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 09:50:28,196] INFO: 127.0.0.1 - - [13/Feb/2025 09:50:28] "[37mOPTIONS /data/data.csv?t=1739411428193 HTTP/1.1[0m" 200 -
+[2025-02-13 09:50:28,200] INFO: 127.0.0.1 - - [13/Feb/2025 09:50:28] "[37mGET /data/data.csv?t=1739411428193 HTTP/1.1[0m" 200 -
+[2025-02-13 12:58:40,245] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 12:58:44,420] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 12:58:44,616] INFO: 127.0.0.1 - - [13/Feb/2025 12:58:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 12:58:44,631] INFO: 127.0.0.1 - - [13/Feb/2025 12:58:44] "[37mOPTIONS /data/data.csv?t=1739422724627 HTTP/1.1[0m" 200 -
+[2025-02-13 12:58:44,636] INFO: 127.0.0.1 - - [13/Feb/2025 12:58:44] "[37mGET /data/data.csv?t=1739422724627 HTTP/1.1[0m" 200 -
+[2025-02-13 13:02:46,379] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 13:02:49,039] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 13:02:49,223] INFO: 127.0.0.1 - - [13/Feb/2025 13:02:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 13:02:49,237] INFO: 127.0.0.1 - - [13/Feb/2025 13:02:49] "[37mOPTIONS /data/data.csv?t=1739422969234 HTTP/1.1[0m" 200 -
+[2025-02-13 13:02:49,241] INFO: 127.0.0.1 - - [13/Feb/2025 13:02:49] "[37mGET /data/data.csv?t=1739422969234 HTTP/1.1[0m" 200 -
+[2025-02-13 13:05:19,951] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 13:05:22,685] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 13:05:22,877] INFO: 127.0.0.1 - - [13/Feb/2025 13:05:22] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 13:05:22,896] INFO: 127.0.0.1 - - [13/Feb/2025 13:05:22] "[37mOPTIONS /data/data.csv?t=1739423122891 HTTP/1.1[0m" 200 -
+[2025-02-13 13:05:22,900] INFO: 127.0.0.1 - - [13/Feb/2025 13:05:22] "[37mGET /data/data.csv?t=1739423122891 HTTP/1.1[0m" 200 -
+[2025-02-13 14:01:11,897] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 14:01:15,536] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 14:01:15,759] INFO: 127.0.0.1 - - [13/Feb/2025 14:01:15] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 14:01:15,775] INFO: 127.0.0.1 - - [13/Feb/2025 14:01:15] "[37mOPTIONS /data/data.csv?t=1739426475771 HTTP/1.1[0m" 200 -
+[2025-02-13 14:01:15,778] INFO: 127.0.0.1 - - [13/Feb/2025 14:01:15] "[37mGET /data/data.csv?t=1739426475771 HTTP/1.1[0m" 200 -
+[2025-02-13 14:07:55,285] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 14:07:58,285] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 14:07:58,516] INFO: 127.0.0.1 - - [13/Feb/2025 14:07:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 14:07:58,531] INFO: 127.0.0.1 - - [13/Feb/2025 14:07:58] "[37mOPTIONS /data/data.csv?t=1739426878528 HTTP/1.1[0m" 200 -
+[2025-02-13 14:07:58,535] INFO: 127.0.0.1 - - [13/Feb/2025 14:07:58] "[37mGET /data/data.csv?t=1739426878528 HTTP/1.1[0m" 200 -
+[2025-02-13 14:08:35,092] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 14:08:38,341] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 14:08:38,579] INFO: 127.0.0.1 - - [13/Feb/2025 14:08:38] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 14:08:38,595] INFO: 127.0.0.1 - - [13/Feb/2025 14:08:38] "[37mOPTIONS /data/data.csv?t=1739426918590 HTTP/1.1[0m" 200 -
+[2025-02-13 14:08:38,598] INFO: 127.0.0.1 - - [13/Feb/2025 14:08:38] "[37mGET /data/data.csv?t=1739426918590 HTTP/1.1[0m" 200 -
+[2025-02-13 14:09:24,294] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 14:09:27,589] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 14:09:27,818] INFO: 127.0.0.1 - - [13/Feb/2025 14:09:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 14:09:27,832] INFO: 127.0.0.1 - - [13/Feb/2025 14:09:27] "[37mOPTIONS /data/data.csv?t=1739426967828 HTTP/1.1[0m" 200 -
+[2025-02-13 14:09:27,837] INFO: 127.0.0.1 - - [13/Feb/2025 14:09:27] "[37mGET /data/data.csv?t=1739426967828 HTTP/1.1[0m" 200 -
+[2025-02-13 15:59:35,832] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 15:59:43,487] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 15:59:43,825] INFO: 127.0.0.1 - - [13/Feb/2025 15:59:43] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 15:59:43,847] INFO: 127.0.0.1 - - [13/Feb/2025 15:59:43] "[37mOPTIONS /data/data.csv?t=1739433583841 HTTP/1.1[0m" 200 -
+[2025-02-13 15:59:43,856] INFO: 127.0.0.1 - - [13/Feb/2025 15:59:43] "[37mGET /data/data.csv?t=1739433583841 HTTP/1.1[0m" 200 -
+[2025-02-13 16:04:07,685] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:04:14,733] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:04:15,224] INFO: 127.0.0.1 - - [13/Feb/2025 16:04:15] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:04:15,257] INFO: 127.0.0.1 - - [13/Feb/2025 16:04:15] "[37mOPTIONS /data/data.csv?t=1739433855250 HTTP/1.1[0m" 200 -
+[2025-02-13 16:04:15,266] INFO: 127.0.0.1 - - [13/Feb/2025 16:04:15] "[37mGET /data/data.csv?t=1739433855250 HTTP/1.1[0m" 200 -
+[2025-02-13 16:12:37,063] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:12:41,388] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:12:41,626] INFO: 127.0.0.1 - - [13/Feb/2025 16:12:41] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:12:41,643] INFO: 127.0.0.1 - - [13/Feb/2025 16:12:41] "[37mOPTIONS /data/data.csv?t=1739434361639 HTTP/1.1[0m" 200 -
+[2025-02-13 16:12:41,649] INFO: 127.0.0.1 - - [13/Feb/2025 16:12:41] "[37mGET /data/data.csv?t=1739434361639 HTTP/1.1[0m" 200 -
+[2025-02-13 16:14:27,332] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:14:30,558] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:14:30,798] INFO: 127.0.0.1 - - [13/Feb/2025 16:14:30] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:14:30,813] INFO: 127.0.0.1 - - [13/Feb/2025 16:14:30] "[37mOPTIONS /data/data.csv?t=1739434470808 HTTP/1.1[0m" 200 -
+[2025-02-13 16:14:30,818] INFO: 127.0.0.1 - - [13/Feb/2025 16:14:30] "[37mGET /data/data.csv?t=1739434470808 HTTP/1.1[0m" 200 -
+[2025-02-13 16:16:08,948] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:16:12,270] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:16:12,503] INFO: 127.0.0.1 - - [13/Feb/2025 16:16:12] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:16:12,516] INFO: 127.0.0.1 - - [13/Feb/2025 16:16:12] "[37mOPTIONS /data/data.csv?t=1739434572512 HTTP/1.1[0m" 200 -
+[2025-02-13 16:16:12,521] INFO: 127.0.0.1 - - [13/Feb/2025 16:16:12] "[37mGET /data/data.csv?t=1739434572512 HTTP/1.1[0m" 200 -
+[2025-02-13 16:35:32,917] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:35:36,164] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:35:36,352] INFO: 127.0.0.1 - - [13/Feb/2025 16:35:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:35:36,366] INFO: 127.0.0.1 - - [13/Feb/2025 16:35:36] "[37mOPTIONS /data/data.csv?t=1739435736363 HTTP/1.1[0m" 200 -
+[2025-02-13 16:35:36,369] INFO: 127.0.0.1 - - [13/Feb/2025 16:35:36] "[37mGET /data/data.csv?t=1739435736363 HTTP/1.1[0m" 200 -
+[2025-02-13 16:36:43,624] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:36:46,356] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:36:46,544] INFO: 127.0.0.1 - - [13/Feb/2025 16:36:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:36:46,556] INFO: 127.0.0.1 - - [13/Feb/2025 16:36:46] "[37mOPTIONS /data/data.csv?t=1739435806553 HTTP/1.1[0m" 200 -
+[2025-02-13 16:36:46,559] INFO: 127.0.0.1 - - [13/Feb/2025 16:36:46] "[37mGET /data/data.csv?t=1739435806553 HTTP/1.1[0m" 200 -
+[2025-02-13 16:37:40,499] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:37:43,733] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:37:43,925] INFO: 127.0.0.1 - - [13/Feb/2025 16:37:43] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:37:44,048] INFO: 127.0.0.1 - - [13/Feb/2025 16:37:44] "[37mOPTIONS /data/data.csv?t=1739435864031 HTTP/1.1[0m" 200 -
+[2025-02-13 16:37:44,089] INFO: 127.0.0.1 - - [13/Feb/2025 16:37:44] "[37mGET /data/data.csv?t=1739435864031 HTTP/1.1[0m" 200 -
+[2025-02-13 16:41:06,503] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:41:09,300] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:41:09,488] INFO: 127.0.0.1 - - [13/Feb/2025 16:41:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:41:09,501] INFO: 127.0.0.1 - - [13/Feb/2025 16:41:09] "[37mOPTIONS /data/data.csv?t=1739436069497 HTTP/1.1[0m" 200 -
+[2025-02-13 16:41:09,503] INFO: 127.0.0.1 - - [13/Feb/2025 16:41:09] "[37mGET /data/data.csv?t=1739436069497 HTTP/1.1[0m" 200 -
+[2025-02-13 16:41:54,416] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 16:41:56,925] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 16:41:57,112] INFO: 127.0.0.1 - - [13/Feb/2025 16:41:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 16:41:57,123] INFO: 127.0.0.1 - - [13/Feb/2025 16:41:57] "[37mOPTIONS /data/data.csv?t=1739436117120 HTTP/1.1[0m" 200 -
+[2025-02-13 16:41:57,128] INFO: 127.0.0.1 - - [13/Feb/2025 16:41:57] "[37mGET /data/data.csv?t=1739436117120 HTTP/1.1[0m" 200 -
+[2025-02-13 19:17:04,749] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 19:17:09,218] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 19:17:09,590] INFO: 127.0.0.1 - - [13/Feb/2025 19:17:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 19:17:09,621] INFO: 127.0.0.1 - - [13/Feb/2025 19:17:09] "[37mOPTIONS /data/data.csv?t=1739445429616 HTTP/1.1[0m" 200 -
+[2025-02-13 19:17:09,625] INFO: 127.0.0.1 - - [13/Feb/2025 19:17:09] "[37mGET /data/data.csv?t=1739445429616 HTTP/1.1[0m" 200 -
+[2025-02-13 19:18:22,013] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 19:18:24,858] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 19:18:25,196] INFO: 127.0.0.1 - - [13/Feb/2025 19:18:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 19:18:25,221] INFO: 127.0.0.1 - - [13/Feb/2025 19:18:25] "[37mOPTIONS /data/data.csv?t=1739445505217 HTTP/1.1[0m" 200 -
+[2025-02-13 19:18:25,224] INFO: 127.0.0.1 - - [13/Feb/2025 19:18:25] "[37mGET /data/data.csv?t=1739445505217 HTTP/1.1[0m" 200 -
+[2025-02-13 19:27:51,781] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 19:27:55,623] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 19:27:55,830] INFO: 127.0.0.1 - - [13/Feb/2025 19:27:55] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 19:27:55,845] INFO: 127.0.0.1 - - [13/Feb/2025 19:27:55] "[37mOPTIONS /data/data.csv?t=1739446075841 HTTP/1.1[0m" 200 -
+[2025-02-13 19:27:55,849] INFO: 127.0.0.1 - - [13/Feb/2025 19:27:55] "[37mGET /data/data.csv?t=1739446075841 HTTP/1.1[0m" 200 -
+[2025-02-13 19:30:14,161] INFO: 127.0.0.1 - - [13/Feb/2025 19:30:14] "[37mGET /data/data.csv HTTP/1.1[0m" 200 -
+[2025-02-13 19:34:03,795] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 19:34:06,745] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 19:34:07,107] INFO: 127.0.0.1 - - [13/Feb/2025 19:34:07] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 19:34:07,144] INFO: 127.0.0.1 - - [13/Feb/2025 19:34:07] "[37mOPTIONS /data/data.csv?t=1739446447140 HTTP/1.1[0m" 200 -
+[2025-02-13 19:34:07,147] INFO: 127.0.0.1 - - [13/Feb/2025 19:34:07] "[37mGET /data/data.csv?t=1739446447140 HTTP/1.1[0m" 200 -
+[2025-02-13 19:38:42,878] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 19:38:46,773] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 19:38:46,981] INFO: 127.0.0.1 - - [13/Feb/2025 19:38:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 19:38:46,998] INFO: 127.0.0.1 - - [13/Feb/2025 19:38:46] "[37mOPTIONS /data/data.csv?t=1739446726993 HTTP/1.1[0m" 200 -
+[2025-02-13 19:38:47,002] INFO: 127.0.0.1 - - [13/Feb/2025 19:38:47] "[37mGET /data/data.csv?t=1739446726993 HTTP/1.1[0m" 200 -
+[2025-02-13 19:39:28,913] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 19:39:31,893] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 19:39:32,307] INFO: 127.0.0.1 - - [13/Feb/2025 19:39:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 19:39:32,335] INFO: 127.0.0.1 - - [13/Feb/2025 19:39:32] "[37mOPTIONS /data/data.csv?t=1739446772332 HTTP/1.1[0m" 200 -
+[2025-02-13 19:39:32,339] INFO: 127.0.0.1 - - [13/Feb/2025 19:39:32] "[37mGET /data/data.csv?t=1739446772332 HTTP/1.1[0m" 200 -
+[2025-02-13 19:55:18,279] INFO:  * Detected change in '/Users/qxy2000/IDVX/InteractiveChart/server/services/fileserver/server/run.py', reloading
+[2025-02-13 21:32:35,454] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:32:40,199] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:32:40,486] INFO: 127.0.0.1 - - [13/Feb/2025 21:32:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:32:40,509] INFO: 127.0.0.1 - - [13/Feb/2025 21:32:40] "[37mOPTIONS /data/data.csv?t=1739453560503 HTTP/1.1[0m" 200 -
+[2025-02-13 21:32:40,514] INFO: 127.0.0.1 - - [13/Feb/2025 21:32:40] "[37mGET /data/data.csv?t=1739453560503 HTTP/1.1[0m" 200 -
+[2025-02-13 21:36:29,764] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:36:32,503] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:36:32,689] INFO: 127.0.0.1 - - [13/Feb/2025 21:36:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:36:32,702] INFO: 127.0.0.1 - - [13/Feb/2025 21:36:32] "[37mOPTIONS /data/data.csv?t=1739453792698 HTTP/1.1[0m" 200 -
+[2025-02-13 21:36:32,705] INFO: 127.0.0.1 - - [13/Feb/2025 21:36:32] "[37mGET /data/data.csv?t=1739453792698 HTTP/1.1[0m" 200 -
+[2025-02-13 21:37:33,348] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:37:35,906] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:37:36,085] INFO: 127.0.0.1 - - [13/Feb/2025 21:37:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:37:36,099] INFO: 127.0.0.1 - - [13/Feb/2025 21:37:36] "[37mOPTIONS /data/data.csv?t=1739453856095 HTTP/1.1[0m" 200 -
+[2025-02-13 21:37:36,103] INFO: 127.0.0.1 - - [13/Feb/2025 21:37:36] "[37mGET /data/data.csv?t=1739453856095 HTTP/1.1[0m" 200 -
+[2025-02-13 21:38:47,482] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:38:50,083] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:38:50,253] INFO: 127.0.0.1 - - [13/Feb/2025 21:38:50] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:38:50,266] INFO: 127.0.0.1 - - [13/Feb/2025 21:38:50] "[37mOPTIONS /data/data.csv?t=1739453930262 HTTP/1.1[0m" 200 -
+[2025-02-13 21:38:50,269] INFO: 127.0.0.1 - - [13/Feb/2025 21:38:50] "[37mGET /data/data.csv?t=1739453930262 HTTP/1.1[0m" 200 -
+[2025-02-13 21:42:56,161] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:42:58,895] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:42:59,087] INFO: 127.0.0.1 - - [13/Feb/2025 21:42:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:42:59,101] INFO: 127.0.0.1 - - [13/Feb/2025 21:42:59] "[37mOPTIONS /data/data.csv?t=1739454179097 HTTP/1.1[0m" 200 -
+[2025-02-13 21:42:59,105] INFO: 127.0.0.1 - - [13/Feb/2025 21:42:59] "[37mGET /data/data.csv?t=1739454179097 HTTP/1.1[0m" 200 -
+[2025-02-13 21:45:20,631] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:45:24,378] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:45:24,629] INFO: 127.0.0.1 - - [13/Feb/2025 21:45:24] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:45:24,645] INFO: 127.0.0.1 - - [13/Feb/2025 21:45:24] "[37mOPTIONS /data/data.csv?t=1739454324640 HTTP/1.1[0m" 200 -
+[2025-02-13 21:45:24,650] INFO: 127.0.0.1 - - [13/Feb/2025 21:45:24] "[37mGET /data/data.csv?t=1739454324640 HTTP/1.1[0m" 200 -
+[2025-02-13 21:50:25,898] INFO: 127.0.0.1 - - [13/Feb/2025 21:50:25] "[37mGET /data/data.csv HTTP/1.1[0m" 200 -
+[2025-02-13 21:51:40,554] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:51:44,324] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:51:44,644] INFO: 127.0.0.1 - - [13/Feb/2025 21:51:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:51:44,665] INFO: 127.0.0.1 - - [13/Feb/2025 21:51:44] "[37mOPTIONS /data/data.csv?t=1739454704660 HTTP/1.1[0m" 200 -
+[2025-02-13 21:51:44,670] INFO: 127.0.0.1 - - [13/Feb/2025 21:51:44] "[37mGET /data/data.csv?t=1739454704660 HTTP/1.1[0m" 200 -
+[2025-02-13 21:53:01,681] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 21:53:04,966] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 21:53:05,232] INFO: 127.0.0.1 - - [13/Feb/2025 21:53:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 21:53:05,246] INFO: 127.0.0.1 - - [13/Feb/2025 21:53:05] "[37mOPTIONS /data/data.csv?t=1739454785242 HTTP/1.1[0m" 200 -
+[2025-02-13 21:53:05,249] INFO: 127.0.0.1 - - [13/Feb/2025 21:53:05] "[37mGET /data/data.csv?t=1739454785242 HTTP/1.1[0m" 200 -
+[2025-02-13 23:03:14,737] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 23:03:19,780] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 23:03:19,979] INFO: 127.0.0.1 - - [13/Feb/2025 23:03:19] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 23:03:19,996] INFO: 127.0.0.1 - - [13/Feb/2025 23:03:19] "[37mOPTIONS /data/data.csv?t=1739458999988 HTTP/1.1[0m" 200 -
+[2025-02-13 23:03:20,000] INFO: 127.0.0.1 - - [13/Feb/2025 23:03:20] "[37mGET /data/data.csv?t=1739458999988 HTTP/1.1[0m" 200 -
+[2025-02-13 23:04:03,343] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 23:04:06,335] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 23:04:06,524] INFO: 127.0.0.1 - - [13/Feb/2025 23:04:06] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 23:04:06,539] INFO: 127.0.0.1 - - [13/Feb/2025 23:04:06] "[37mOPTIONS /data/data.csv?t=1739459046536 HTTP/1.1[0m" 200 -
+[2025-02-13 23:04:06,544] INFO: 127.0.0.1 - - [13/Feb/2025 23:04:06] "[37mGET /data/data.csv?t=1739459046536 HTTP/1.1[0m" 200 -
+[2025-02-13 23:05:35,453] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-13 23:05:37,993] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-13 23:05:38,177] INFO: 127.0.0.1 - - [13/Feb/2025 23:05:38] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-13 23:05:38,193] INFO: 127.0.0.1 - - [13/Feb/2025 23:05:38] "[37mOPTIONS /data/data.csv?t=1739459138188 HTTP/1.1[0m" 200 -
+[2025-02-13 23:05:38,198] INFO: 127.0.0.1 - - [13/Feb/2025 23:05:38] "[37mGET /data/data.csv?t=1739459138188 HTTP/1.1[0m" 200 -
+[2025-02-14 07:54:20,108] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 07:54:25,865] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 07:54:26,083] INFO: 127.0.0.1 - - [14/Feb/2025 07:54:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 07:54:26,097] INFO: 127.0.0.1 - - [14/Feb/2025 07:54:26] "[37mOPTIONS /data/data.csv?t=1739490866094 HTTP/1.1[0m" 200 -
+[2025-02-14 07:54:26,102] INFO: 127.0.0.1 - - [14/Feb/2025 07:54:26] "[37mGET /data/data.csv?t=1739490866094 HTTP/1.1[0m" 200 -
+[2025-02-14 08:00:19,401] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 08:00:23,403] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 08:00:23,611] INFO: 127.0.0.1 - - [14/Feb/2025 08:00:23] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 08:00:23,629] INFO: 127.0.0.1 - - [14/Feb/2025 08:00:23] "[37mOPTIONS /data/data.csv?t=1739491223622 HTTP/1.1[0m" 200 -
+[2025-02-14 08:00:23,633] INFO: 127.0.0.1 - - [14/Feb/2025 08:00:23] "[37mGET /data/data.csv?t=1739491223622 HTTP/1.1[0m" 200 -
+[2025-02-14 08:01:31,427] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 08:01:34,816] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 08:01:35,014] INFO: 127.0.0.1 - - [14/Feb/2025 08:01:35] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 08:01:35,030] INFO: 127.0.0.1 - - [14/Feb/2025 08:01:35] "[37mOPTIONS /data/data.csv?t=1739491295026 HTTP/1.1[0m" 200 -
+[2025-02-14 08:01:35,034] INFO: 127.0.0.1 - - [14/Feb/2025 08:01:35] "[37mGET /data/data.csv?t=1739491295026 HTTP/1.1[0m" 200 -
+[2025-02-14 08:08:15,751] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 08:08:18,727] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 08:08:18,909] INFO: 127.0.0.1 - - [14/Feb/2025 08:08:18] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 08:08:18,924] INFO: 127.0.0.1 - - [14/Feb/2025 08:08:18] "[37mOPTIONS /data/data.csv?t=1739491698920 HTTP/1.1[0m" 200 -
+[2025-02-14 08:08:18,929] INFO: 127.0.0.1 - - [14/Feb/2025 08:08:18] "[37mGET /data/data.csv?t=1739491698920 HTTP/1.1[0m" 200 -
+[2025-02-14 09:42:09,528] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 09:42:13,988] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 09:42:14,186] INFO: 127.0.0.1 - - [14/Feb/2025 09:42:14] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 09:42:14,202] INFO: 127.0.0.1 - - [14/Feb/2025 09:42:14] "[37mOPTIONS /data/data.csv?t=1739497334197 HTTP/1.1[0m" 200 -
+[2025-02-14 09:42:14,206] INFO: 127.0.0.1 - - [14/Feb/2025 09:42:14] "[37mGET /data/data.csv?t=1739497334197 HTTP/1.1[0m" 200 -
+[2025-02-14 09:44:04,828] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 09:44:07,462] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 09:44:07,641] INFO: 127.0.0.1 - - [14/Feb/2025 09:44:07] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 09:44:07,658] INFO: 127.0.0.1 - - [14/Feb/2025 09:44:07] "[37mOPTIONS /data/data.csv?t=1739497447654 HTTP/1.1[0m" 200 -
+[2025-02-14 09:44:07,661] INFO: 127.0.0.1 - - [14/Feb/2025 09:44:07] "[37mGET /data/data.csv?t=1739497447654 HTTP/1.1[0m" 200 -
+[2025-02-14 09:44:43,582] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 09:44:46,178] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 09:44:46,352] INFO: 127.0.0.1 - - [14/Feb/2025 09:44:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 09:44:46,368] INFO: 127.0.0.1 - - [14/Feb/2025 09:44:46] "[37mOPTIONS /data/data.csv?t=1739497486364 HTTP/1.1[0m" 200 -
+[2025-02-14 09:44:46,371] INFO: 127.0.0.1 - - [14/Feb/2025 09:44:46] "[37mGET /data/data.csv?t=1739497486364 HTTP/1.1[0m" 200 -
+[2025-02-14 14:58:50,104] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 14:58:55,223] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 14:58:55,463] INFO: 127.0.0.1 - - [14/Feb/2025 14:58:55] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 14:58:55,491] INFO: 127.0.0.1 - - [14/Feb/2025 14:58:55] "[37mOPTIONS /data/data.csv?t=1739516335487 HTTP/1.1[0m" 200 -
+[2025-02-14 14:58:55,496] INFO: 127.0.0.1 - - [14/Feb/2025 14:58:55] "[37mGET /data/data.csv?t=1739516335487 HTTP/1.1[0m" 200 -
+[2025-02-14 15:00:10,442] INFO: 127.0.0.1 - - [14/Feb/2025 15:00:10] "[37mGET /data/data.csv HTTP/1.1[0m" 200 -
+[2025-02-14 15:03:22,043] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 15:03:26,920] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 15:03:27,174] INFO: 127.0.0.1 - - [14/Feb/2025 15:03:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 15:03:27,189] INFO: 127.0.0.1 - - [14/Feb/2025 15:03:27] "[37mOPTIONS /data/data.csv?t=1739516607185 HTTP/1.1[0m" 200 -
+[2025-02-14 15:03:27,194] INFO: 127.0.0.1 - - [14/Feb/2025 15:03:27] "[37mGET /data/data.csv?t=1739516607185 HTTP/1.1[0m" 200 -
+[2025-02-14 15:11:20,047] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 15:11:24,470] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 15:11:24,766] INFO: 127.0.0.1 - - [14/Feb/2025 15:11:24] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 15:11:24,782] INFO: 127.0.0.1 - - [14/Feb/2025 15:11:24] "[37mOPTIONS /data/data.csv?t=1739517084778 HTTP/1.1[0m" 200 -
+[2025-02-14 15:11:24,786] INFO: 127.0.0.1 - - [14/Feb/2025 15:11:24] "[37mGET /data/data.csv?t=1739517084778 HTTP/1.1[0m" 200 -
+[2025-02-14 17:51:51,176] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 17:51:55,953] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 17:51:56,162] INFO: 127.0.0.1 - - [14/Feb/2025 17:51:56] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 17:51:56,176] INFO: 127.0.0.1 - - [14/Feb/2025 17:51:56] "[37mOPTIONS /data/data.csv?t=1739526716172 HTTP/1.1[0m" 200 -
+[2025-02-14 17:51:56,181] INFO: 127.0.0.1 - - [14/Feb/2025 17:51:56] "[37mGET /data/data.csv?t=1739526716172 HTTP/1.1[0m" 200 -
+[2025-02-14 17:53:37,211] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 17:53:39,977] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 17:53:40,164] INFO: 127.0.0.1 - - [14/Feb/2025 17:53:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 17:53:40,176] INFO: 127.0.0.1 - - [14/Feb/2025 17:53:40] "[37mOPTIONS /data/data.csv?t=1739526820173 HTTP/1.1[0m" 200 -
+[2025-02-14 17:53:40,179] INFO: 127.0.0.1 - - [14/Feb/2025 17:53:40] "[37mGET /data/data.csv?t=1739526820173 HTTP/1.1[0m" 200 -
+[2025-02-14 18:03:07,484] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 18:03:11,471] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 18:03:11,723] INFO: 127.0.0.1 - - [14/Feb/2025 18:03:11] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 18:03:11,744] INFO: 127.0.0.1 - - [14/Feb/2025 18:03:11] "[37mOPTIONS /data/data.csv?t=1739527391739 HTTP/1.1[0m" 200 -
+[2025-02-14 18:03:11,748] INFO: 127.0.0.1 - - [14/Feb/2025 18:03:11] "[37mGET /data/data.csv?t=1739527391739 HTTP/1.1[0m" 200 -
+[2025-02-14 18:09:53,243] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 18:09:57,499] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 18:09:57,759] INFO: 127.0.0.1 - - [14/Feb/2025 18:09:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 18:09:57,774] INFO: 127.0.0.1 - - [14/Feb/2025 18:09:57] "[37mOPTIONS /data/data.csv?t=1739527797771 HTTP/1.1[0m" 200 -
+[2025-02-14 18:09:57,779] INFO: 127.0.0.1 - - [14/Feb/2025 18:09:57] "[37mGET /data/data.csv?t=1739527797771 HTTP/1.1[0m" 200 -
+[2025-02-14 19:54:06,903] INFO: 127.0.0.1 - - [14/Feb/2025 19:54:06] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2025-02-14 19:56:39,702] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 19:56:45,043] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 19:56:45,407] INFO: 127.0.0.1 - - [14/Feb/2025 19:56:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 19:56:45,444] INFO: 127.0.0.1 - - [14/Feb/2025 19:56:45] "[37mOPTIONS /data/data.csv?t=1739534205440 HTTP/1.1[0m" 200 -
+[2025-02-14 19:56:45,448] INFO: 127.0.0.1 - - [14/Feb/2025 19:56:45] "[37mGET /data/data.csv?t=1739534205440 HTTP/1.1[0m" 200 -
+[2025-02-14 20:00:06,556] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:00:09,166] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:00:09,345] INFO: 127.0.0.1 - - [14/Feb/2025 20:00:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:00:09,358] INFO: 127.0.0.1 - - [14/Feb/2025 20:00:09] "[37mOPTIONS /data/data.csv?t=1739534409354 HTTP/1.1[0m" 200 -
+[2025-02-14 20:00:09,362] INFO: 127.0.0.1 - - [14/Feb/2025 20:00:09] "[37mGET /data/data.csv?t=1739534409354 HTTP/1.1[0m" 200 -
+[2025-02-14 20:00:41,496] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:00:44,222] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:00:44,535] INFO: 127.0.0.1 - - [14/Feb/2025 20:00:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:00:44,562] INFO: 127.0.0.1 - - [14/Feb/2025 20:00:44] "[37mOPTIONS /data/data.csv?t=1739534444560 HTTP/1.1[0m" 200 -
+[2025-02-14 20:00:44,569] INFO: 127.0.0.1 - - [14/Feb/2025 20:00:44] "[37mGET /data/data.csv?t=1739534444560 HTTP/1.1[0m" 200 -
+[2025-02-14 20:03:53,033] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:03:56,105] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:03:56,303] INFO: 127.0.0.1 - - [14/Feb/2025 20:03:56] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:03:56,314] INFO: 127.0.0.1 - - [14/Feb/2025 20:03:56] "[37mOPTIONS /data/data.csv?t=1739534636311 HTTP/1.1[0m" 200 -
+[2025-02-14 20:03:56,317] INFO: 127.0.0.1 - - [14/Feb/2025 20:03:56] "[37mGET /data/data.csv?t=1739534636311 HTTP/1.1[0m" 200 -
+[2025-02-14 20:04:10,069] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:04:12,727] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:04:13,088] INFO: 127.0.0.1 - - [14/Feb/2025 20:04:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:04:13,115] INFO: 127.0.0.1 - - [14/Feb/2025 20:04:13] "[37mOPTIONS /data/data.csv?t=1739534653113 HTTP/1.1[0m" 200 -
+[2025-02-14 20:04:13,118] INFO: 127.0.0.1 - - [14/Feb/2025 20:04:13] "[37mGET /data/data.csv?t=1739534653113 HTTP/1.1[0m" 200 -
+[2025-02-14 20:04:50,599] INFO: 127.0.0.1 - - [14/Feb/2025 20:04:50] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-14 20:11:55,465] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:11:58,177] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:11:58,490] INFO: 127.0.0.1 - - [14/Feb/2025 20:11:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:11:58,527] INFO: 127.0.0.1 - - [14/Feb/2025 20:11:58] "[37mOPTIONS /data/data.csv?t=1739535118521 HTTP/1.1[0m" 200 -
+[2025-02-14 20:11:58,531] INFO: 127.0.0.1 - - [14/Feb/2025 20:11:58] "[37mGET /data/data.csv?t=1739535118521 HTTP/1.1[0m" 200 -
+[2025-02-14 20:17:56,978] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:18:01,373] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:18:01,708] INFO: 127.0.0.1 - - [14/Feb/2025 20:18:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:18:01,741] INFO: 127.0.0.1 - - [14/Feb/2025 20:18:01] "[37mOPTIONS /data/data.csv?t=1739535481738 HTTP/1.1[0m" 200 -
+[2025-02-14 20:18:01,747] INFO: 127.0.0.1 - - [14/Feb/2025 20:18:01] "[37mGET /data/data.csv?t=1739535481738 HTTP/1.1[0m" 200 -
+[2025-02-14 20:28:03,273] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:28:07,601] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:28:07,981] INFO: 127.0.0.1 - - [14/Feb/2025 20:28:07] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:28:08,013] INFO: 127.0.0.1 - - [14/Feb/2025 20:28:08] "[37mOPTIONS /data/data.csv?t=1739536088009 HTTP/1.1[0m" 200 -
+[2025-02-14 20:28:08,017] INFO: 127.0.0.1 - - [14/Feb/2025 20:28:08] "[37mGET /data/data.csv?t=1739536088009 HTTP/1.1[0m" 200 -
+[2025-02-14 20:33:33,235] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:33:37,574] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:33:37,889] INFO: 127.0.0.1 - - [14/Feb/2025 20:33:37] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:33:37,915] INFO: 127.0.0.1 - - [14/Feb/2025 20:33:37] "[37mOPTIONS /data/data.csv?t=1739536417911 HTTP/1.1[0m" 200 -
+[2025-02-14 20:33:37,920] INFO: 127.0.0.1 - - [14/Feb/2025 20:33:37] "[37mGET /data/data.csv?t=1739536417911 HTTP/1.1[0m" 200 -
+[2025-02-14 20:37:13,807] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:37:16,622] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:37:16,927] INFO: 127.0.0.1 - - [14/Feb/2025 20:37:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:37:16,949] INFO: 127.0.0.1 - - [14/Feb/2025 20:37:16] "[37mOPTIONS /data/data.csv?t=1739536636947 HTTP/1.1[0m" 200 -
+[2025-02-14 20:37:16,952] INFO: 127.0.0.1 - - [14/Feb/2025 20:37:16] "[37mGET /data/data.csv?t=1739536636947 HTTP/1.1[0m" 200 -
+[2025-02-14 20:45:39,832] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:45:44,385] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:45:44,628] INFO: 127.0.0.1 - - [14/Feb/2025 20:45:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:45:44,646] INFO: 127.0.0.1 - - [14/Feb/2025 20:45:44] "[37mOPTIONS /data/data.csv?t=1739537144642 HTTP/1.1[0m" 200 -
+[2025-02-14 20:45:44,650] INFO: 127.0.0.1 - - [14/Feb/2025 20:45:44] "[37mGET /data/data.csv?t=1739537144642 HTTP/1.1[0m" 200 -
+[2025-02-14 20:47:54,412] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:47:57,900] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:47:58,132] INFO: 127.0.0.1 - - [14/Feb/2025 20:47:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:47:58,153] INFO: 127.0.0.1 - - [14/Feb/2025 20:47:58] "[37mOPTIONS /data/data.csv?t=1739537278149 HTTP/1.1[0m" 200 -
+[2025-02-14 20:47:58,157] INFO: 127.0.0.1 - - [14/Feb/2025 20:47:58] "[37mGET /data/data.csv?t=1739537278149 HTTP/1.1[0m" 200 -
+[2025-02-14 20:51:38,516] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:51:42,954] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:51:43,147] INFO: 127.0.0.1 - - [14/Feb/2025 20:51:43] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:51:43,159] INFO: 127.0.0.1 - - [14/Feb/2025 20:51:43] "[37mOPTIONS /data/data.csv?t=1739537503156 HTTP/1.1[0m" 200 -
+[2025-02-14 20:51:43,163] INFO: 127.0.0.1 - - [14/Feb/2025 20:51:43] "[37mGET /data/data.csv?t=1739537503156 HTTP/1.1[0m" 200 -
+[2025-02-14 20:53:07,389] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:53:11,234] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:53:11,477] INFO: 127.0.0.1 - - [14/Feb/2025 20:53:11] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:53:11,490] INFO: 127.0.0.1 - - [14/Feb/2025 20:53:11] "[37mOPTIONS /data/data.csv?t=1739537591487 HTTP/1.1[0m" 200 -
+[2025-02-14 20:53:11,494] INFO: 127.0.0.1 - - [14/Feb/2025 20:53:11] "[37mGET /data/data.csv?t=1739537591487 HTTP/1.1[0m" 200 -
+[2025-02-14 20:55:05,609] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:55:09,319] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:55:09,558] INFO: 127.0.0.1 - - [14/Feb/2025 20:55:09] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:55:09,571] INFO: 127.0.0.1 - - [14/Feb/2025 20:55:09] "[37mOPTIONS /data/data.csv?t=1739537709567 HTTP/1.1[0m" 200 -
+[2025-02-14 20:55:09,575] INFO: 127.0.0.1 - - [14/Feb/2025 20:55:09] "[37mGET /data/data.csv?t=1739537709567 HTTP/1.1[0m" 200 -
+[2025-02-14 20:56:48,133] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 20:56:51,455] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 20:56:51,681] INFO: 127.0.0.1 - - [14/Feb/2025 20:56:51] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 20:56:51,695] INFO: 127.0.0.1 - - [14/Feb/2025 20:56:51] "[37mOPTIONS /data/data.csv?t=1739537811691 HTTP/1.1[0m" 200 -
+[2025-02-14 20:56:51,699] INFO: 127.0.0.1 - - [14/Feb/2025 20:56:51] "[37mGET /data/data.csv?t=1739537811691 HTTP/1.1[0m" 200 -
+[2025-02-14 21:41:08,314] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 21:41:13,374] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 21:41:13,789] INFO: 127.0.0.1 - - [14/Feb/2025 21:41:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 21:41:14,486] INFO: 127.0.0.1 - - [14/Feb/2025 21:41:14] "[37mOPTIONS /data/data.csv?t=1739540474479 HTTP/1.1[0m" 200 -
+[2025-02-14 21:41:14,493] INFO: 127.0.0.1 - - [14/Feb/2025 21:41:14] "[37mGET /data/data.csv?t=1739540474479 HTTP/1.1[0m" 200 -
+[2025-02-14 21:45:18,337] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 21:45:21,267] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 21:45:21,575] INFO: 127.0.0.1 - - [14/Feb/2025 21:45:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 21:45:21,603] INFO: 127.0.0.1 - - [14/Feb/2025 21:45:21] "[37mOPTIONS /data/data.csv?t=1739540721600 HTTP/1.1[0m" 200 -
+[2025-02-14 21:45:21,606] INFO: 127.0.0.1 - - [14/Feb/2025 21:45:21] "[37mGET /data/data.csv?t=1739540721600 HTTP/1.1[0m" 200 -
+[2025-02-14 21:56:00,646] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-14 21:56:04,041] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-14 21:56:04,437] INFO: 127.0.0.1 - - [14/Feb/2025 21:56:04] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-14 21:56:04,464] INFO: 127.0.0.1 - - [14/Feb/2025 21:56:04] "[37mOPTIONS /data/data.csv?t=1739541364461 HTTP/1.1[0m" 200 -
+[2025-02-14 21:56:04,468] INFO: 127.0.0.1 - - [14/Feb/2025 21:56:04] "[37mGET /data/data.csv?t=1739541364461 HTTP/1.1[0m" 200 -
+[2025-02-15 08:57:14,827] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 08:57:20,635] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 08:57:21,007] INFO: 127.0.0.1 - - [15/Feb/2025 08:57:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 08:57:21,040] INFO: 127.0.0.1 - - [15/Feb/2025 08:57:21] "[37mOPTIONS /data/data.csv?t=1739581041035 HTTP/1.1[0m" 200 -
+[2025-02-15 08:57:21,044] INFO: 127.0.0.1 - - [15/Feb/2025 08:57:21] "[37mGET /data/data.csv?t=1739581041035 HTTP/1.1[0m" 200 -
+[2025-02-15 08:57:50,990] INFO: 127.0.0.1 - - [15/Feb/2025 08:57:50] "[36mGET /data/vgsales.csv HTTP/1.1[0m" 304 -
+[2025-02-15 09:34:28,021] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 09:34:32,793] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 09:34:33,200] INFO: 127.0.0.1 - - [15/Feb/2025 09:34:33] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 09:34:33,239] INFO: 127.0.0.1 - - [15/Feb/2025 09:34:33] "[37mOPTIONS /data/data.csv?t=1739583273236 HTTP/1.1[0m" 200 -
+[2025-02-15 09:34:33,245] INFO: 127.0.0.1 - - [15/Feb/2025 09:34:33] "[37mGET /data/data.csv?t=1739583273236 HTTP/1.1[0m" 200 -
+[2025-02-15 09:37:08,660] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 09:37:11,369] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 09:37:11,671] INFO: 127.0.0.1 - - [15/Feb/2025 09:37:11] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 09:37:11,704] INFO: 127.0.0.1 - - [15/Feb/2025 09:37:11] "[37mOPTIONS /data/data.csv?t=1739583431702 HTTP/1.1[0m" 200 -
+[2025-02-15 09:37:11,708] INFO: 127.0.0.1 - - [15/Feb/2025 09:37:11] "[37mGET /data/data.csv?t=1739583431702 HTTP/1.1[0m" 200 -
+[2025-02-15 09:42:39,974] INFO: 127.0.0.1 - - [15/Feb/2025 09:42:39] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-15 09:48:37,505] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 09:48:40,198] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 09:48:40,509] INFO: 127.0.0.1 - - [15/Feb/2025 09:48:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 09:48:40,534] INFO: 127.0.0.1 - - [15/Feb/2025 09:48:40] "[37mOPTIONS /data/data.csv?t=1739584120531 HTTP/1.1[0m" 200 -
+[2025-02-15 09:48:40,539] INFO: 127.0.0.1 - - [15/Feb/2025 09:48:40] "[37mGET /data/data.csv?t=1739584120531 HTTP/1.1[0m" 200 -
+[2025-02-15 09:50:24,935] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 09:50:27,666] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 09:50:27,973] INFO: 127.0.0.1 - - [15/Feb/2025 09:50:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 09:50:27,997] INFO: 127.0.0.1 - - [15/Feb/2025 09:50:27] "[37mOPTIONS /data/data.csv?t=1739584227994 HTTP/1.1[0m" 200 -
+[2025-02-15 09:50:28,001] INFO: 127.0.0.1 - - [15/Feb/2025 09:50:28] "[37mGET /data/data.csv?t=1739584227994 HTTP/1.1[0m" 200 -
+[2025-02-15 09:51:29,353] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 09:51:32,133] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 09:51:32,440] INFO: 127.0.0.1 - - [15/Feb/2025 09:51:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 09:51:32,463] INFO: 127.0.0.1 - - [15/Feb/2025 09:51:32] "[37mOPTIONS /data/data.csv?t=1739584292460 HTTP/1.1[0m" 200 -
+[2025-02-15 09:51:32,466] INFO: 127.0.0.1 - - [15/Feb/2025 09:51:32] "[37mGET /data/data.csv?t=1739584292460 HTTP/1.1[0m" 200 -
+[2025-02-15 10:02:13,919] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 10:02:18,292] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 10:02:18,603] INFO: 127.0.0.1 - - [15/Feb/2025 10:02:18] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 10:02:18,628] INFO: 127.0.0.1 - - [15/Feb/2025 10:02:18] "[37mOPTIONS /data/data.csv?t=1739584938625 HTTP/1.1[0m" 200 -
+[2025-02-15 10:02:18,632] INFO: 127.0.0.1 - - [15/Feb/2025 10:02:18] "[37mGET /data/data.csv?t=1739584938625 HTTP/1.1[0m" 200 -
+[2025-02-15 11:15:50,435] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 11:15:55,564] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 11:15:55,926] INFO: 127.0.0.1 - - [15/Feb/2025 11:15:55] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 11:15:55,960] INFO: 127.0.0.1 - - [15/Feb/2025 11:15:55] "[37mOPTIONS /data/data.csv?t=1739589355957 HTTP/1.1[0m" 200 -
+[2025-02-15 11:15:55,963] INFO: 127.0.0.1 - - [15/Feb/2025 11:15:55] "[37mGET /data/data.csv?t=1739589355957 HTTP/1.1[0m" 200 -
+[2025-02-15 11:17:01,837] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 11:17:05,164] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 11:17:05,511] INFO: 127.0.0.1 - - [15/Feb/2025 11:17:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 11:17:05,537] INFO: 127.0.0.1 - - [15/Feb/2025 11:17:05] "[37mOPTIONS /data/data.csv?t=1739589425535 HTTP/1.1[0m" 200 -
+[2025-02-15 11:17:05,540] INFO: 127.0.0.1 - - [15/Feb/2025 11:17:05] "[37mGET /data/data.csv?t=1739589425535 HTTP/1.1[0m" 200 -
+[2025-02-15 11:18:00,933] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 11:18:03,602] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 11:18:03,924] INFO: 127.0.0.1 - - [15/Feb/2025 11:18:03] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 11:18:03,946] INFO: 127.0.0.1 - - [15/Feb/2025 11:18:03] "[37mOPTIONS /data/data.csv?t=1739589483943 HTTP/1.1[0m" 200 -
+[2025-02-15 11:18:03,948] INFO: 127.0.0.1 - - [15/Feb/2025 11:18:03] "[37mGET /data/data.csv?t=1739589483943 HTTP/1.1[0m" 200 -
+[2025-02-15 11:22:23,522] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 11:22:27,743] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 11:22:28,148] INFO: 127.0.0.1 - - [15/Feb/2025 11:22:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 11:22:28,184] INFO: 127.0.0.1 - - [15/Feb/2025 11:22:28] "[37mOPTIONS /data/data.csv?t=1739589748181 HTTP/1.1[0m" 200 -
+[2025-02-15 11:22:28,196] INFO: 127.0.0.1 - - [15/Feb/2025 11:22:28] "[37mGET /data/data.csv?t=1739589748181 HTTP/1.1[0m" 200 -
+[2025-02-15 11:29:44,450] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 11:29:48,055] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 11:29:48,447] INFO: 127.0.0.1 - - [15/Feb/2025 11:29:48] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 11:29:48,484] INFO: 127.0.0.1 - - [15/Feb/2025 11:29:48] "[37mOPTIONS /data/data.csv?t=1739590188479 HTTP/1.1[0m" 200 -
+[2025-02-15 11:29:48,489] INFO: 127.0.0.1 - - [15/Feb/2025 11:29:48] "[37mGET /data/data.csv?t=1739590188479 HTTP/1.1[0m" 200 -
+[2025-02-15 14:35:20,119] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 14:35:26,923] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 14:35:27,432] INFO: 127.0.0.1 - - [15/Feb/2025 14:35:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 14:35:27,483] INFO: 127.0.0.1 - - [15/Feb/2025 14:35:27] "[37mOPTIONS /data/data.csv?t=1739601327478 HTTP/1.1[0m" 200 -
+[2025-02-15 14:35:27,488] INFO: 127.0.0.1 - - [15/Feb/2025 14:35:27] "[37mGET /data/data.csv?t=1739601327478 HTTP/1.1[0m" 200 -
+[2025-02-15 14:38:48,565] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 14:38:52,983] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 14:38:53,413] INFO: 127.0.0.1 - - [15/Feb/2025 14:38:53] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 14:38:53,448] INFO: 127.0.0.1 - - [15/Feb/2025 14:38:53] "[37mOPTIONS /data/data.csv?t=1739601533444 HTTP/1.1[0m" 200 -
+[2025-02-15 14:38:53,459] INFO: 127.0.0.1 - - [15/Feb/2025 14:38:53] "[37mGET /data/data.csv?t=1739601533444 HTTP/1.1[0m" 200 -
+[2025-02-15 14:39:33,087] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 14:39:37,294] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 14:39:37,717] INFO: 127.0.0.1 - - [15/Feb/2025 14:39:37] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 14:39:37,748] INFO: 127.0.0.1 - - [15/Feb/2025 14:39:37] "[37mOPTIONS /data/data.csv?t=1739601577745 HTTP/1.1[0m" 200 -
+[2025-02-15 14:39:37,752] INFO: 127.0.0.1 - - [15/Feb/2025 14:39:37] "[37mGET /data/data.csv?t=1739601577745 HTTP/1.1[0m" 200 -
+[2025-02-15 19:40:59,527] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 19:41:04,418] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 19:41:04,762] INFO: 127.0.0.1 - - [15/Feb/2025 19:41:04] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 19:41:04,796] INFO: 127.0.0.1 - - [15/Feb/2025 19:41:04] "[37mOPTIONS /data/data.csv?t=1739619664792 HTTP/1.1[0m" 200 -
+[2025-02-15 19:41:04,800] INFO: 127.0.0.1 - - [15/Feb/2025 19:41:04] "[37mGET /data/data.csv?t=1739619664792 HTTP/1.1[0m" 200 -
+[2025-02-15 19:46:22,798] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 19:46:25,644] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 19:46:25,969] INFO: 127.0.0.1 - - [15/Feb/2025 19:46:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 19:46:25,993] INFO: 127.0.0.1 - - [15/Feb/2025 19:46:25] "[37mOPTIONS /data/data.csv?t=1739619985990 HTTP/1.1[0m" 200 -
+[2025-02-15 19:46:25,995] INFO: 127.0.0.1 - - [15/Feb/2025 19:46:25] "[37mGET /data/data.csv?t=1739619985990 HTTP/1.1[0m" 200 -
+[2025-02-15 19:47:20,678] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 19:47:23,468] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 19:47:23,795] INFO: 127.0.0.1 - - [15/Feb/2025 19:47:23] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 19:47:23,825] INFO: 127.0.0.1 - - [15/Feb/2025 19:47:23] "[37mOPTIONS /data/data.csv?t=1739620043822 HTTP/1.1[0m" 200 -
+[2025-02-15 19:47:23,829] INFO: 127.0.0.1 - - [15/Feb/2025 19:47:23] "[37mGET /data/data.csv?t=1739620043822 HTTP/1.1[0m" 200 -
+[2025-02-15 19:50:08,402] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 19:50:11,372] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 19:50:11,678] INFO: 127.0.0.1 - - [15/Feb/2025 19:50:11] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 19:50:11,707] INFO: 127.0.0.1 - - [15/Feb/2025 19:50:11] "[37mOPTIONS /data/data.csv?t=1739620211704 HTTP/1.1[0m" 200 -
+[2025-02-15 19:50:11,710] INFO: 127.0.0.1 - - [15/Feb/2025 19:50:11] "[37mGET /data/data.csv?t=1739620211704 HTTP/1.1[0m" 200 -
+[2025-02-15 19:53:48,730] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 19:53:53,188] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 19:53:53,511] INFO: 127.0.0.1 - - [15/Feb/2025 19:53:53] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 19:53:53,540] INFO: 127.0.0.1 - - [15/Feb/2025 19:53:53] "[37mOPTIONS /data/data.csv?t=1739620433536 HTTP/1.1[0m" 200 -
+[2025-02-15 19:53:53,543] INFO: 127.0.0.1 - - [15/Feb/2025 19:53:53] "[37mGET /data/data.csv?t=1739620433536 HTTP/1.1[0m" 200 -
+[2025-02-15 19:57:50,177] INFO: 127.0.0.1 - - [15/Feb/2025 19:57:50] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-15 20:04:15,380] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:04:19,583] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:04:19,924] INFO: 127.0.0.1 - - [15/Feb/2025 20:04:19] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:04:19,961] INFO: 127.0.0.1 - - [15/Feb/2025 20:04:19] "[37mOPTIONS /data/data.csv?t=1739621059958 HTTP/1.1[0m" 200 -
+[2025-02-15 20:04:19,967] INFO: 127.0.0.1 - - [15/Feb/2025 20:04:19] "[37mGET /data/data.csv?t=1739621059958 HTTP/1.1[0m" 200 -
+[2025-02-15 20:08:44,952] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:08:47,847] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:08:48,192] INFO: 127.0.0.1 - - [15/Feb/2025 20:08:48] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:08:48,221] INFO: 127.0.0.1 - - [15/Feb/2025 20:08:48] "[37mOPTIONS /data/data.csv?t=1739621328219 HTTP/1.1[0m" 200 -
+[2025-02-15 20:08:48,224] INFO: 127.0.0.1 - - [15/Feb/2025 20:08:48] "[37mGET /data/data.csv?t=1739621328219 HTTP/1.1[0m" 200 -
+[2025-02-15 20:10:30,908] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:10:33,748] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:10:34,080] INFO: 127.0.0.1 - - [15/Feb/2025 20:10:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:10:34,101] INFO: 127.0.0.1 - - [15/Feb/2025 20:10:34] "[37mOPTIONS /data/data.csv?t=1739621434098 HTTP/1.1[0m" 200 -
+[2025-02-15 20:10:34,104] INFO: 127.0.0.1 - - [15/Feb/2025 20:10:34] "[37mGET /data/data.csv?t=1739621434098 HTTP/1.1[0m" 200 -
+[2025-02-15 20:12:09,432] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:12:12,338] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:12:12,648] INFO: 127.0.0.1 - - [15/Feb/2025 20:12:12] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:12:12,669] INFO: 127.0.0.1 - - [15/Feb/2025 20:12:12] "[37mOPTIONS /data/data.csv?t=1739621532667 HTTP/1.1[0m" 200 -
+[2025-02-15 20:12:12,673] INFO: 127.0.0.1 - - [15/Feb/2025 20:12:12] "[37mGET /data/data.csv?t=1739621532667 HTTP/1.1[0m" 200 -
+[2025-02-15 20:28:16,173] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:28:20,455] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:28:20,767] INFO: 127.0.0.1 - - [15/Feb/2025 20:28:20] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:28:20,793] INFO: 127.0.0.1 - - [15/Feb/2025 20:28:20] "[37mOPTIONS /data/data.csv?t=1739622500790 HTTP/1.1[0m" 200 -
+[2025-02-15 20:28:20,797] INFO: 127.0.0.1 - - [15/Feb/2025 20:28:20] "[37mGET /data/data.csv?t=1739622500790 HTTP/1.1[0m" 200 -
+[2025-02-15 20:34:32,489] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:34:36,885] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:34:37,216] INFO: 127.0.0.1 - - [15/Feb/2025 20:34:37] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:34:37,240] INFO: 127.0.0.1 - - [15/Feb/2025 20:34:37] "[37mOPTIONS /data/data.csv?t=1739622877237 HTTP/1.1[0m" 200 -
+[2025-02-15 20:34:37,244] INFO: 127.0.0.1 - - [15/Feb/2025 20:34:37] "[37mGET /data/data.csv?t=1739622877237 HTTP/1.1[0m" 200 -
+[2025-02-15 20:39:44,439] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:39:47,204] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:39:47,542] INFO: 127.0.0.1 - - [15/Feb/2025 20:39:47] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:39:47,572] INFO: 127.0.0.1 - - [15/Feb/2025 20:39:47] "[37mOPTIONS /data/data.csv?t=1739623187568 HTTP/1.1[0m" 200 -
+[2025-02-15 20:39:47,575] INFO: 127.0.0.1 - - [15/Feb/2025 20:39:47] "[37mGET /data/data.csv?t=1739623187568 HTTP/1.1[0m" 200 -
+[2025-02-15 20:44:09,953] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:44:12,672] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:44:12,968] INFO: 127.0.0.1 - - [15/Feb/2025 20:44:12] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:44:12,994] INFO: 127.0.0.1 - - [15/Feb/2025 20:44:12] "[37mOPTIONS /data/data.csv?t=1739623452991 HTTP/1.1[0m" 200 -
+[2025-02-15 20:44:12,997] INFO: 127.0.0.1 - - [15/Feb/2025 20:44:12] "[37mGET /data/data.csv?t=1739623452991 HTTP/1.1[0m" 200 -
+[2025-02-15 20:57:37,441] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 20:57:40,787] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 20:57:41,110] INFO: 127.0.0.1 - - [15/Feb/2025 20:57:41] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 20:57:41,136] INFO: 127.0.0.1 - - [15/Feb/2025 20:57:41] "[37mOPTIONS /data/data.csv?t=1739624261133 HTTP/1.1[0m" 200 -
+[2025-02-15 20:57:41,139] INFO: 127.0.0.1 - - [15/Feb/2025 20:57:41] "[37mGET /data/data.csv?t=1739624261133 HTTP/1.1[0m" 200 -
+[2025-02-15 20:58:14,228] INFO: 127.0.0.1 - - [15/Feb/2025 20:58:14] "[36mGET /data/vgsales.csv HTTP/1.1[0m" 304 -
+[2025-02-15 21:01:25,905] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 21:01:31,641] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 21:01:32,077] INFO: 127.0.0.1 - - [15/Feb/2025 21:01:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 21:01:32,114] INFO: 127.0.0.1 - - [15/Feb/2025 21:01:32] "[37mOPTIONS /data/data.csv?t=1739624492110 HTTP/1.1[0m" 200 -
+[2025-02-15 21:01:32,125] INFO: 127.0.0.1 - - [15/Feb/2025 21:01:32] "[37mGET /data/data.csv?t=1739624492110 HTTP/1.1[0m" 200 -
+[2025-02-15 21:07:56,592] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 21:08:00,263] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 21:08:00,672] INFO: 127.0.0.1 - - [15/Feb/2025 21:08:00] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 21:08:00,705] INFO: 127.0.0.1 - - [15/Feb/2025 21:08:00] "[37mOPTIONS /data/data.csv?t=1739624880702 HTTP/1.1[0m" 200 -
+[2025-02-15 21:08:00,710] INFO: 127.0.0.1 - - [15/Feb/2025 21:08:00] "[37mGET /data/data.csv?t=1739624880702 HTTP/1.1[0m" 200 -
+[2025-02-15 21:10:17,670] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 21:10:21,410] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 21:10:21,817] INFO: 127.0.0.1 - - [15/Feb/2025 21:10:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 21:10:21,844] INFO: 127.0.0.1 - - [15/Feb/2025 21:10:21] "[37mOPTIONS /data/data.csv?t=1739625021840 HTTP/1.1[0m" 200 -
+[2025-02-15 21:10:21,848] INFO: 127.0.0.1 - - [15/Feb/2025 21:10:21] "[37mGET /data/data.csv?t=1739625021840 HTTP/1.1[0m" 200 -
+[2025-02-15 21:23:25,187] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 21:23:29,475] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 21:23:29,934] INFO: 127.0.0.1 - - [15/Feb/2025 21:23:29] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 21:23:29,968] INFO: 127.0.0.1 - - [15/Feb/2025 21:23:29] "[37mOPTIONS /data/data.csv?t=1739625809963 HTTP/1.1[0m" 200 -
+[2025-02-15 21:23:29,975] INFO: 127.0.0.1 - - [15/Feb/2025 21:23:29] "[37mGET /data/data.csv?t=1739625809963 HTTP/1.1[0m" 200 -
+[2025-02-15 21:56:32,446] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 21:56:37,855] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 21:56:38,326] INFO: 127.0.0.1 - - [15/Feb/2025 21:56:38] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 21:56:38,373] INFO: 127.0.0.1 - - [15/Feb/2025 21:56:38] "[37mOPTIONS /data/data.csv?t=1739627798369 HTTP/1.1[0m" 200 -
+[2025-02-15 21:56:38,382] INFO: 127.0.0.1 - - [15/Feb/2025 21:56:38] "[37mGET /data/data.csv?t=1739627798369 HTTP/1.1[0m" 200 -
+[2025-02-15 22:01:30,468] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 22:01:34,695] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 22:01:35,130] INFO: 127.0.0.1 - - [15/Feb/2025 22:01:35] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 22:01:35,157] INFO: 127.0.0.1 - - [15/Feb/2025 22:01:35] "[37mOPTIONS /data/data.csv?t=1739628095152 HTTP/1.1[0m" 200 -
+[2025-02-15 22:01:35,161] INFO: 127.0.0.1 - - [15/Feb/2025 22:01:35] "[37mGET /data/data.csv?t=1739628095152 HTTP/1.1[0m" 200 -
+[2025-02-15 22:51:20,481] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 22:51:27,360] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 22:51:27,797] INFO: 127.0.0.1 - - [15/Feb/2025 22:51:27] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 22:51:27,838] INFO: 127.0.0.1 - - [15/Feb/2025 22:51:27] "[37mOPTIONS /data/data.csv?t=1739631087831 HTTP/1.1[0m" 200 -
+[2025-02-15 22:51:27,847] INFO: 127.0.0.1 - - [15/Feb/2025 22:51:27] "[37mGET /data/data.csv?t=1739631087831 HTTP/1.1[0m" 200 -
+[2025-02-15 23:00:20,751] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 23:00:24,822] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 23:00:25,324] INFO: 127.0.0.1 - - [15/Feb/2025 23:00:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 23:00:25,366] INFO: 127.0.0.1 - - [15/Feb/2025 23:00:25] "[37mOPTIONS /data/data.csv?t=1739631625363 HTTP/1.1[0m" 200 -
+[2025-02-15 23:00:25,371] INFO: 127.0.0.1 - - [15/Feb/2025 23:00:25] "[37mGET /data/data.csv?t=1739631625363 HTTP/1.1[0m" 200 -
+[2025-02-15 23:02:53,670] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 23:02:57,854] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 23:02:58,325] INFO: 127.0.0.1 - - [15/Feb/2025 23:02:58] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 23:02:58,371] INFO: 127.0.0.1 - - [15/Feb/2025 23:02:58] "[37mOPTIONS /data/data.csv?t=1739631778367 HTTP/1.1[0m" 200 -
+[2025-02-15 23:02:58,377] INFO: 127.0.0.1 - - [15/Feb/2025 23:02:58] "[37mGET /data/data.csv?t=1739631778367 HTTP/1.1[0m" 200 -
+[2025-02-15 23:04:56,752] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 23:05:00,535] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 23:05:01,025] INFO: 127.0.0.1 - - [15/Feb/2025 23:05:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 23:05:01,071] INFO: 127.0.0.1 - - [15/Feb/2025 23:05:01] "[37mOPTIONS /data/data.csv?t=1739631901066 HTTP/1.1[0m" 200 -
+[2025-02-15 23:05:01,076] INFO: 127.0.0.1 - - [15/Feb/2025 23:05:01] "[37mGET /data/data.csv?t=1739631901066 HTTP/1.1[0m" 200 -
+[2025-02-15 23:05:39,359] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 23:05:43,448] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 23:05:43,945] INFO: 127.0.0.1 - - [15/Feb/2025 23:05:43] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 23:05:43,981] INFO: 127.0.0.1 - - [15/Feb/2025 23:05:43] "[37mOPTIONS /data/data.csv?t=1739631943977 HTTP/1.1[0m" 200 -
+[2025-02-15 23:05:43,986] INFO: 127.0.0.1 - - [15/Feb/2025 23:05:43] "[37mGET /data/data.csv?t=1739631943977 HTTP/1.1[0m" 200 -
+[2025-02-15 23:06:41,224] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 23:06:44,871] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 23:06:45,299] INFO: 127.0.0.1 - - [15/Feb/2025 23:06:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 23:06:45,334] INFO: 127.0.0.1 - - [15/Feb/2025 23:06:45] "[37mOPTIONS /data/data.csv?t=1739632005331 HTTP/1.1[0m" 200 -
+[2025-02-15 23:06:45,338] INFO: 127.0.0.1 - - [15/Feb/2025 23:06:45] "[37mGET /data/data.csv?t=1739632005331 HTTP/1.1[0m" 200 -
+[2025-02-15 23:09:11,825] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-15 23:09:15,479] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-15 23:09:15,971] INFO: 127.0.0.1 - - [15/Feb/2025 23:09:15] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-15 23:09:16,002] INFO: 127.0.0.1 - - [15/Feb/2025 23:09:16] "[37mOPTIONS /data/data.csv?t=1739632155999 HTTP/1.1[0m" 200 -
+[2025-02-15 23:09:16,007] INFO: 127.0.0.1 - - [15/Feb/2025 23:09:16] "[37mGET /data/data.csv?t=1739632155999 HTTP/1.1[0m" 200 -
+[2025-02-16 17:36:51,698] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 17:36:58,858] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 17:36:59,699] INFO: 127.0.0.1 - - [16/Feb/2025 17:36:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 17:36:59,756] INFO: 127.0.0.1 - - [16/Feb/2025 17:36:59] "[37mOPTIONS /data/data.csv?t=1739698619750 HTTP/1.1[0m" 200 -
+[2025-02-16 17:36:59,760] INFO: 127.0.0.1 - - [16/Feb/2025 17:36:59] "[37mGET /data/data.csv?t=1739698619750 HTTP/1.1[0m" 200 -
+[2025-02-16 17:37:30,274] INFO: 127.0.0.1 - - [16/Feb/2025 17:37:30] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-16 18:20:19,007] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 18:20:26,322] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 18:20:26,667] INFO: 127.0.0.1 - - [16/Feb/2025 18:20:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 18:20:26,717] INFO: 127.0.0.1 - - [16/Feb/2025 18:20:26] "[37mOPTIONS /data/data.csv?t=1739701226710 HTTP/1.1[0m" 200 -
+[2025-02-16 18:20:26,720] INFO: 127.0.0.1 - - [16/Feb/2025 18:20:26] "[37mGET /data/data.csv?t=1739701226710 HTTP/1.1[0m" 200 -
+[2025-02-16 18:21:46,017] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 18:21:49,325] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 18:21:49,836] INFO: 127.0.0.1 - - [16/Feb/2025 18:21:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 18:21:49,857] INFO: 127.0.0.1 - - [16/Feb/2025 18:21:49] "[37mOPTIONS /data/data.csv?t=1739701309855 HTTP/1.1[0m" 200 -
+[2025-02-16 18:21:49,860] INFO: 127.0.0.1 - - [16/Feb/2025 18:21:49] "[37mGET /data/data.csv?t=1739701309855 HTTP/1.1[0m" 200 -
+[2025-02-16 18:24:58,424] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 18:25:01,381] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 18:25:01,703] INFO: 127.0.0.1 - - [16/Feb/2025 18:25:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 18:25:01,727] INFO: 127.0.0.1 - - [16/Feb/2025 18:25:01] "[37mOPTIONS /data/data.csv?t=1739701501724 HTTP/1.1[0m" 200 -
+[2025-02-16 18:25:01,731] INFO: 127.0.0.1 - - [16/Feb/2025 18:25:01] "[37mGET /data/data.csv?t=1739701501724 HTTP/1.1[0m" 200 -
+[2025-02-16 18:27:13,457] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 18:27:16,382] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 18:27:16,715] INFO: 127.0.0.1 - - [16/Feb/2025 18:27:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 18:27:16,736] INFO: 127.0.0.1 - - [16/Feb/2025 18:27:16] "[37mOPTIONS /data/data.csv?t=1739701636733 HTTP/1.1[0m" 200 -
+[2025-02-16 18:27:16,738] INFO: 127.0.0.1 - - [16/Feb/2025 18:27:16] "[37mGET /data/data.csv?t=1739701636733 HTTP/1.1[0m" 200 -
+[2025-02-16 18:31:33,310] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 18:31:36,276] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 18:31:36,607] INFO: 127.0.0.1 - - [16/Feb/2025 18:31:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 18:31:36,636] INFO: 127.0.0.1 - - [16/Feb/2025 18:31:36] "[37mOPTIONS /data/data.csv?t=1739701896634 HTTP/1.1[0m" 200 -
+[2025-02-16 18:31:36,639] INFO: 127.0.0.1 - - [16/Feb/2025 18:31:36] "[37mGET /data/data.csv?t=1739701896634 HTTP/1.1[0m" 200 -
+[2025-02-16 21:29:57,833] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 21:30:04,850] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 21:30:05,270] INFO: 127.0.0.1 - - [16/Feb/2025 21:30:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 21:30:05,362] INFO: 127.0.0.1 - - [16/Feb/2025 21:30:05] "[37mOPTIONS /data/data.csv?t=1739712605356 HTTP/1.1[0m" 200 -
+[2025-02-16 21:30:05,366] INFO: 127.0.0.1 - - [16/Feb/2025 21:30:05] "[37mGET /data/data.csv?t=1739712605356 HTTP/1.1[0m" 200 -
+[2025-02-16 21:31:37,710] INFO: 127.0.0.1 - - [16/Feb/2025 21:31:37] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-16 21:37:24,543] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 21:37:28,821] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 21:37:29,329] INFO: 127.0.0.1 - - [16/Feb/2025 21:37:29] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 21:37:29,364] INFO: 127.0.0.1 - - [16/Feb/2025 21:37:29] "[37mOPTIONS /data/data.csv?t=1739713049361 HTTP/1.1[0m" 200 -
+[2025-02-16 21:37:29,368] INFO: 127.0.0.1 - - [16/Feb/2025 21:37:29] "[37mGET /data/data.csv?t=1739713049361 HTTP/1.1[0m" 200 -
+[2025-02-16 21:40:17,361] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 21:40:21,667] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 21:40:22,123] INFO: 127.0.0.1 - - [16/Feb/2025 21:40:22] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 21:40:22,165] INFO: 127.0.0.1 - - [16/Feb/2025 21:40:22] "[37mOPTIONS /data/data.csv?t=1739713222160 HTTP/1.1[0m" 200 -
+[2025-02-16 21:40:22,172] INFO: 127.0.0.1 - - [16/Feb/2025 21:40:22] "[37mGET /data/data.csv?t=1739713222160 HTTP/1.1[0m" 200 -
+[2025-02-16 21:41:17,102] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-16 21:41:21,178] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-16 21:41:21,645] INFO: 127.0.0.1 - - [16/Feb/2025 21:41:21] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-16 21:41:21,670] INFO: 127.0.0.1 - - [16/Feb/2025 21:41:21] "[37mOPTIONS /data/data.csv?t=1739713281666 HTTP/1.1[0m" 200 -
+[2025-02-16 21:41:21,676] INFO: 127.0.0.1 - - [16/Feb/2025 21:41:21] "[37mGET /data/data.csv?t=1739713281666 HTTP/1.1[0m" 200 -
+[2025-02-16 22:18:20,283] INFO: 127.0.0.1 - - [16/Feb/2025 22:18:20] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-17 09:22:20,628] INFO: 127.0.0.1 - - [17/Feb/2025 09:22:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2025-02-17 09:22:58,611] INFO: 127.0.0.1 - - [17/Feb/2025 09:22:58] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+[2025-02-17 09:23:05,066] INFO: 127.0.0.1 - - [17/Feb/2025 09:23:05] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+[2025-02-17 09:23:05,374] INFO: 127.0.0.1 - - [17/Feb/2025 09:23:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-02-17 09:23:25,908] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 09:23:34,378] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 09:23:34,896] INFO: 127.0.0.1 - - [17/Feb/2025 09:23:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 09:23:34,952] INFO: 127.0.0.1 - - [17/Feb/2025 09:23:34] "[37mOPTIONS /data/data.csv?t=1739755414944 HTTP/1.1[0m" 200 -
+[2025-02-17 09:23:34,957] INFO: 127.0.0.1 - - [17/Feb/2025 09:23:34] "[37mGET /data/data.csv?t=1739755414944 HTTP/1.1[0m" 200 -
+[2025-02-17 09:30:11,114] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 09:30:26,238] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 09:30:28,040] INFO: 127.0.0.1 - - [17/Feb/2025 09:30:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 09:30:28,236] INFO: 127.0.0.1 - - [17/Feb/2025 09:30:28] "[37mOPTIONS /data/data.csv?t=1739755828229 HTTP/1.1[0m" 200 -
+[2025-02-17 09:30:28,243] INFO: 127.0.0.1 - - [17/Feb/2025 09:30:28] "[37mGET /data/data.csv?t=1739755828229 HTTP/1.1[0m" 200 -
+[2025-02-17 09:32:52,565] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 09:33:09,388] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 09:33:10,825] INFO: 127.0.0.1 - - [17/Feb/2025 09:33:10] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 09:33:10,923] INFO: 127.0.0.1 - - [17/Feb/2025 09:33:10] "[37mOPTIONS /data/data.csv?t=1739755990909 HTTP/1.1[0m" 200 -
+[2025-02-17 09:33:10,937] INFO: 127.0.0.1 - - [17/Feb/2025 09:33:10] "[37mGET /data/data.csv?t=1739755990909 HTTP/1.1[0m" 200 -
+[2025-02-17 09:33:40,453] INFO: 127.0.0.1 - - [17/Feb/2025 09:33:40] "[37mGET /data/vgsales.csv HTTP/1.1[0m" 200 -
+[2025-02-17 09:47:35,891] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 09:47:53,060] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 09:47:55,674] INFO: 127.0.0.1 - - [17/Feb/2025 09:47:55] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 09:47:57,813] INFO: 127.0.0.1 - - [17/Feb/2025 09:47:57] "[37mOPTIONS /data/data.csv?t=1739756877755 HTTP/1.1[0m" 200 -
+[2025-02-17 09:47:57,838] INFO: 127.0.0.1 - - [17/Feb/2025 09:47:57] "[37mGET /data/data.csv?t=1739756877755 HTTP/1.1[0m" 200 -
+[2025-02-17 11:36:16,741] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 11:36:28,601] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 11:36:29,733] INFO: 127.0.0.1 - - [17/Feb/2025 11:36:29] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 11:36:29,881] INFO: 127.0.0.1 - - [17/Feb/2025 11:36:29] "[37mOPTIONS /data/data.csv?t=1739763389877 HTTP/1.1[0m" 200 -
+[2025-02-17 11:36:29,886] INFO: 127.0.0.1 - - [17/Feb/2025 11:36:29] "[37mGET /data/data.csv?t=1739763389877 HTTP/1.1[0m" 200 -
+[2025-02-17 12:00:39,179] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 12:00:49,451] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 12:00:50,277] INFO: 127.0.0.1 - - [17/Feb/2025 12:00:50] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 12:00:50,310] INFO: 127.0.0.1 - - [17/Feb/2025 12:00:50] "[37mOPTIONS /data/data.csv?t=1739764850304 HTTP/1.1[0m" 200 -
+[2025-02-17 12:00:50,320] INFO: 127.0.0.1 - - [17/Feb/2025 12:00:50] "[37mGET /data/data.csv?t=1739764850304 HTTP/1.1[0m" 200 -
+[2025-02-17 13:00:09,840] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:00:25,574] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:00:26,532] INFO: 127.0.0.1 - - [17/Feb/2025 13:00:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:00:26,570] INFO: 127.0.0.1 - - [17/Feb/2025 13:00:26] "[37mOPTIONS /data/data.csv?t=1739768426562 HTTP/1.1[0m" 200 -
+[2025-02-17 13:00:26,584] INFO: 127.0.0.1 - - [17/Feb/2025 13:00:26] "[37mGET /data/data.csv?t=1739768426562 HTTP/1.1[0m" 200 -
+[2025-02-17 13:01:29,573] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:01:38,626] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:01:39,364] INFO: 127.0.0.1 - - [17/Feb/2025 13:01:39] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:01:39,398] INFO: 127.0.0.1 - - [17/Feb/2025 13:01:39] "[37mOPTIONS /data/data.csv?t=1739768499392 HTTP/1.1[0m" 200 -
+[2025-02-17 13:01:39,405] INFO: 127.0.0.1 - - [17/Feb/2025 13:01:39] "[37mGET /data/data.csv?t=1739768499392 HTTP/1.1[0m" 200 -
+[2025-02-17 13:06:56,320] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:07:04,603] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:07:05,239] INFO: 127.0.0.1 - - [17/Feb/2025 13:07:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:07:05,269] INFO: 127.0.0.1 - - [17/Feb/2025 13:07:05] "[37mOPTIONS /data/data.csv?t=1739768825263 HTTP/1.1[0m" 200 -
+[2025-02-17 13:07:05,278] INFO: 127.0.0.1 - - [17/Feb/2025 13:07:05] "[37mGET /data/data.csv?t=1739768825263 HTTP/1.1[0m" 200 -
+[2025-02-17 13:11:00,156] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:11:05,111] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:11:05,452] INFO: 127.0.0.1 - - [17/Feb/2025 13:11:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:11:05,482] INFO: 127.0.0.1 - - [17/Feb/2025 13:11:05] "[37mOPTIONS /data/data.csv?t=1739769065479 HTTP/1.1[0m" 200 -
+[2025-02-17 13:11:05,485] INFO: 127.0.0.1 - - [17/Feb/2025 13:11:05] "[37mGET /data/data.csv?t=1739769065479 HTTP/1.1[0m" 200 -
+[2025-02-17 13:11:38,483] INFO: 127.0.0.1 - - [17/Feb/2025 13:11:38] "[37mGET /data/vgsales1.csv HTTP/1.1[0m" 200 -
+[2025-02-17 13:13:39,081] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:13:42,042] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:13:42,370] INFO: 127.0.0.1 - - [17/Feb/2025 13:13:42] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:13:42,392] INFO: 127.0.0.1 - - [17/Feb/2025 13:13:42] "[37mOPTIONS /data/data.csv?t=1739769222389 HTTP/1.1[0m" 200 -
+[2025-02-17 13:13:42,395] INFO: 127.0.0.1 - - [17/Feb/2025 13:13:42] "[37mGET /data/data.csv?t=1739769222389 HTTP/1.1[0m" 200 -
+[2025-02-17 13:19:45,172] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:19:51,712] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:19:52,051] INFO: 127.0.0.1 - - [17/Feb/2025 13:19:52] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:19:52,067] INFO: 127.0.0.1 - - [17/Feb/2025 13:19:52] "[37mOPTIONS /data/data.csv?t=1739769592063 HTTP/1.1[0m" 200 -
+[2025-02-17 13:19:52,072] INFO: 127.0.0.1 - - [17/Feb/2025 13:19:52] "[37mGET /data/data.csv?t=1739769592063 HTTP/1.1[0m" 200 -
+[2025-02-17 13:22:03,084] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:22:06,914] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:22:07,277] INFO: 127.0.0.1 - - [17/Feb/2025 13:22:07] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:22:07,294] INFO: 127.0.0.1 - - [17/Feb/2025 13:22:07] "[37mOPTIONS /data/data.csv?t=1739769727290 HTTP/1.1[0m" 200 -
+[2025-02-17 13:22:07,298] INFO: 127.0.0.1 - - [17/Feb/2025 13:22:07] "[37mGET /data/data.csv?t=1739769727290 HTTP/1.1[0m" 200 -
+[2025-02-17 13:30:33,316] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:30:39,738] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:30:40,096] INFO: 127.0.0.1 - - [17/Feb/2025 13:30:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:30:40,110] INFO: 127.0.0.1 - - [17/Feb/2025 13:30:40] "[37mOPTIONS /data/data.csv?t=1739770240108 HTTP/1.1[0m" 200 -
+[2025-02-17 13:30:40,116] INFO: 127.0.0.1 - - [17/Feb/2025 13:30:40] "[37mGET /data/data.csv?t=1739770240108 HTTP/1.1[0m" 200 -
+[2025-02-17 13:34:57,079] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:35:01,339] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:35:01,677] INFO: 127.0.0.1 - - [17/Feb/2025 13:35:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:35:01,692] INFO: 127.0.0.1 - - [17/Feb/2025 13:35:01] "[37mOPTIONS /data/data.csv?t=1739770501689 HTTP/1.1[0m" 200 -
+[2025-02-17 13:35:01,696] INFO: 127.0.0.1 - - [17/Feb/2025 13:35:01] "[37mGET /data/data.csv?t=1739770501689 HTTP/1.1[0m" 200 -
+[2025-02-17 13:38:58,696] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:39:04,958] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:39:05,317] INFO: 127.0.0.1 - - [17/Feb/2025 13:39:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:39:05,334] INFO: 127.0.0.1 - - [17/Feb/2025 13:39:05] "[37mOPTIONS /data/data.csv?t=1739770745331 HTTP/1.1[0m" 200 -
+[2025-02-17 13:39:05,339] INFO: 127.0.0.1 - - [17/Feb/2025 13:39:05] "[37mGET /data/data.csv?t=1739770745331 HTTP/1.1[0m" 200 -
+[2025-02-17 13:42:16,542] INFO: 127.0.0.1 - - [17/Feb/2025 13:42:16] "[37mGET /data/vgsales1.csv HTTP/1.1[0m" 200 -
+[2025-02-17 13:44:07,139] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:44:11,091] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:44:11,473] INFO: 127.0.0.1 - - [17/Feb/2025 13:44:11] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:44:11,489] INFO: 127.0.0.1 - - [17/Feb/2025 13:44:11] "[37mOPTIONS /data/data.csv?t=1739771051486 HTTP/1.1[0m" 200 -
+[2025-02-17 13:44:11,493] INFO: 127.0.0.1 - - [17/Feb/2025 13:44:11] "[37mGET /data/data.csv?t=1739771051486 HTTP/1.1[0m" 200 -
+[2025-02-17 13:52:37,291] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 13:52:42,073] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 13:52:42,421] INFO: 127.0.0.1 - - [17/Feb/2025 13:52:42] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 13:52:42,437] INFO: 127.0.0.1 - - [17/Feb/2025 13:52:42] "[37mOPTIONS /data/data.csv?t=1739771562435 HTTP/1.1[0m" 200 -
+[2025-02-17 13:52:42,441] INFO: 127.0.0.1 - - [17/Feb/2025 13:52:42] "[37mGET /data/data.csv?t=1739771562435 HTTP/1.1[0m" 200 -
+[2025-02-17 14:00:59,703] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:01:06,087] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:01:06,436] INFO: 127.0.0.1 - - [17/Feb/2025 14:01:06] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:01:06,452] INFO: 127.0.0.1 - - [17/Feb/2025 14:01:06] "[37mOPTIONS /data/data.csv?t=1739772066449 HTTP/1.1[0m" 200 -
+[2025-02-17 14:01:06,457] INFO: 127.0.0.1 - - [17/Feb/2025 14:01:06] "[37mGET /data/data.csv?t=1739772066449 HTTP/1.1[0m" 200 -
+[2025-02-17 14:07:25,542] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:07:32,030] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:07:32,371] INFO: 127.0.0.1 - - [17/Feb/2025 14:07:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:07:32,390] INFO: 127.0.0.1 - - [17/Feb/2025 14:07:32] "[37mOPTIONS /data/data.csv?t=1739772452387 HTTP/1.1[0m" 200 -
+[2025-02-17 14:07:32,397] INFO: 127.0.0.1 - - [17/Feb/2025 14:07:32] "[37mGET /data/data.csv?t=1739772452387 HTTP/1.1[0m" 200 -
+[2025-02-17 14:19:56,635] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:20:02,869] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:20:03,233] INFO: 127.0.0.1 - - [17/Feb/2025 14:20:03] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:20:03,250] INFO: 127.0.0.1 - - [17/Feb/2025 14:20:03] "[37mOPTIONS /data/data.csv?t=1739773203245 HTTP/1.1[0m" 200 -
+[2025-02-17 14:20:03,254] INFO: 127.0.0.1 - - [17/Feb/2025 14:20:03] "[37mGET /data/data.csv?t=1739773203245 HTTP/1.1[0m" 200 -
+[2025-02-17 14:23:06,217] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:23:10,428] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:23:10,765] INFO: 127.0.0.1 - - [17/Feb/2025 14:23:10] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:23:10,783] INFO: 127.0.0.1 - - [17/Feb/2025 14:23:10] "[37mOPTIONS /data/data.csv?t=1739773390778 HTTP/1.1[0m" 200 -
+[2025-02-17 14:23:10,786] INFO: 127.0.0.1 - - [17/Feb/2025 14:23:10] "[37mGET /data/data.csv?t=1739773390778 HTTP/1.1[0m" 200 -
+[2025-02-17 14:33:31,086] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:33:38,268] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:33:38,714] INFO: 127.0.0.1 - - [17/Feb/2025 14:33:38] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:33:38,825] INFO: 127.0.0.1 - - [17/Feb/2025 14:33:38] "[37mOPTIONS /data/data.csv?t=1739774018821 HTTP/1.1[0m" 200 -
+[2025-02-17 14:33:38,827] INFO: 127.0.0.1 - - [17/Feb/2025 14:33:38] "[37mGET /data/data.csv?t=1739774018821 HTTP/1.1[0m" 200 -
+[2025-02-17 14:39:06,251] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:39:13,466] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:39:13,892] INFO: 127.0.0.1 - - [17/Feb/2025 14:39:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:39:13,912] INFO: 127.0.0.1 - - [17/Feb/2025 14:39:13] "[37mOPTIONS /data/data.csv?t=1739774353909 HTTP/1.1[0m" 200 -
+[2025-02-17 14:39:13,919] INFO: 127.0.0.1 - - [17/Feb/2025 14:39:13] "[37mGET /data/data.csv?t=1739774353909 HTTP/1.1[0m" 200 -
+[2025-02-17 14:42:48,182] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 14:42:53,366] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 14:42:53,796] INFO: 127.0.0.1 - - [17/Feb/2025 14:42:53] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 14:42:53,816] INFO: 127.0.0.1 - - [17/Feb/2025 14:42:53] "[37mOPTIONS /data/data.csv?t=1739774573810 HTTP/1.1[0m" 200 -
+[2025-02-17 14:42:53,821] INFO: 127.0.0.1 - - [17/Feb/2025 14:42:53] "[37mGET /data/data.csv?t=1739774573810 HTTP/1.1[0m" 200 -
+[2025-02-17 19:13:18,947] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:13:27,582] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:13:28,041] INFO: 127.0.0.1 - - [17/Feb/2025 19:13:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:13:28,058] INFO: 127.0.0.1 - - [17/Feb/2025 19:13:28] "[37mOPTIONS /data/data.csv?t=1739790808053 HTTP/1.1[0m" 200 -
+[2025-02-17 19:13:28,061] INFO: 127.0.0.1 - - [17/Feb/2025 19:13:28] "[37mGET /data/data.csv?t=1739790808053 HTTP/1.1[0m" 200 -
+[2025-02-17 19:14:08,117] INFO: 127.0.0.1 - - [17/Feb/2025 19:14:08] "[37mGET /data/vgsales1.csv HTTP/1.1[0m" 200 -
+[2025-02-17 19:17:53,223] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:17:57,364] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:17:57,730] INFO: 127.0.0.1 - - [17/Feb/2025 19:17:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:17:57,748] INFO: 127.0.0.1 - - [17/Feb/2025 19:17:57] "[37mOPTIONS /data/data.csv?t=1739791077745 HTTP/1.1[0m" 200 -
+[2025-02-17 19:17:57,751] INFO: 127.0.0.1 - - [17/Feb/2025 19:17:57] "[37mGET /data/data.csv?t=1739791077745 HTTP/1.1[0m" 200 -
+[2025-02-17 19:32:36,417] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:32:41,034] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:32:41,409] INFO: 127.0.0.1 - - [17/Feb/2025 19:32:41] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:32:41,428] INFO: 127.0.0.1 - - [17/Feb/2025 19:32:41] "[37mOPTIONS /data/data.csv?t=1739791961423 HTTP/1.1[0m" 200 -
+[2025-02-17 19:32:41,433] INFO: 127.0.0.1 - - [17/Feb/2025 19:32:41] "[37mGET /data/data.csv?t=1739791961423 HTTP/1.1[0m" 200 -
+[2025-02-17 19:35:00,755] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:35:04,736] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:35:05,081] INFO: 127.0.0.1 - - [17/Feb/2025 19:35:05] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:35:05,096] INFO: 127.0.0.1 - - [17/Feb/2025 19:35:05] "[37mOPTIONS /data/data.csv?t=1739792105093 HTTP/1.1[0m" 200 -
+[2025-02-17 19:35:05,099] INFO: 127.0.0.1 - - [17/Feb/2025 19:35:05] "[37mGET /data/data.csv?t=1739792105093 HTTP/1.1[0m" 200 -
+[2025-02-17 19:41:09,085] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:41:14,068] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:41:14,454] INFO: 127.0.0.1 - - [17/Feb/2025 19:41:14] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:41:14,473] INFO: 127.0.0.1 - - [17/Feb/2025 19:41:14] "[37mOPTIONS /data/data.csv?t=1739792474468 HTTP/1.1[0m" 200 -
+[2025-02-17 19:41:14,476] INFO: 127.0.0.1 - - [17/Feb/2025 19:41:14] "[37mGET /data/data.csv?t=1739792474468 HTTP/1.1[0m" 200 -
+[2025-02-17 19:42:45,497] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:42:49,491] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:42:49,857] INFO: 127.0.0.1 - - [17/Feb/2025 19:42:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:42:49,875] INFO: 127.0.0.1 - - [17/Feb/2025 19:42:49] "[37mOPTIONS /data/data.csv?t=1739792569870 HTTP/1.1[0m" 200 -
+[2025-02-17 19:42:49,879] INFO: 127.0.0.1 - - [17/Feb/2025 19:42:49] "[37mGET /data/data.csv?t=1739792569870 HTTP/1.1[0m" 200 -
+[2025-02-17 19:44:22,469] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:44:26,387] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:44:26,751] INFO: 127.0.0.1 - - [17/Feb/2025 19:44:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:44:26,768] INFO: 127.0.0.1 - - [17/Feb/2025 19:44:26] "[37mOPTIONS /data/data.csv?t=1739792666764 HTTP/1.1[0m" 200 -
+[2025-02-17 19:44:26,772] INFO: 127.0.0.1 - - [17/Feb/2025 19:44:26] "[37mGET /data/data.csv?t=1739792666764 HTTP/1.1[0m" 200 -
+[2025-02-17 19:46:22,123] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:46:25,988] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:46:26,406] INFO: 127.0.0.1 - - [17/Feb/2025 19:46:26] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:46:26,424] INFO: 127.0.0.1 - - [17/Feb/2025 19:46:26] "[37mOPTIONS /data/data.csv?t=1739792786420 HTTP/1.1[0m" 200 -
+[2025-02-17 19:46:26,427] INFO: 127.0.0.1 - - [17/Feb/2025 19:46:26] "[37mGET /data/data.csv?t=1739792786420 HTTP/1.1[0m" 200 -
+[2025-02-17 19:47:52,821] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:47:56,948] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:47:57,312] INFO: 127.0.0.1 - - [17/Feb/2025 19:47:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:47:57,328] INFO: 127.0.0.1 - - [17/Feb/2025 19:47:57] "[37mOPTIONS /data/data.csv?t=1739792877325 HTTP/1.1[0m" 200 -
+[2025-02-17 19:47:57,333] INFO: 127.0.0.1 - - [17/Feb/2025 19:47:57] "[37mGET /data/data.csv?t=1739792877325 HTTP/1.1[0m" 200 -
+[2025-02-17 19:49:18,730] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:49:22,725] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:49:23,075] INFO: 127.0.0.1 - - [17/Feb/2025 19:49:23] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:49:23,092] INFO: 127.0.0.1 - - [17/Feb/2025 19:49:23] "[37mOPTIONS /data/data.csv?t=1739792963089 HTTP/1.1[0m" 200 -
+[2025-02-17 19:49:23,098] INFO: 127.0.0.1 - - [17/Feb/2025 19:49:23] "[37mGET /data/data.csv?t=1739792963089 HTTP/1.1[0m" 200 -
+[2025-02-17 19:56:14,322] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 19:56:18,685] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 19:56:19,021] INFO: 127.0.0.1 - - [17/Feb/2025 19:56:19] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 19:56:19,036] INFO: 127.0.0.1 - - [17/Feb/2025 19:56:19] "[37mOPTIONS /data/data.csv?t=1739793379032 HTTP/1.1[0m" 200 -
+[2025-02-17 19:56:19,040] INFO: 127.0.0.1 - - [17/Feb/2025 19:56:19] "[37mGET /data/data.csv?t=1739793379032 HTTP/1.1[0m" 200 -
+[2025-02-17 20:18:08,381] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:18:16,166] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:18:16,614] INFO: 127.0.0.1 - - [17/Feb/2025 20:18:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:18:16,637] INFO: 127.0.0.1 - - [17/Feb/2025 20:18:16] "[37mOPTIONS /data/data.csv?t=1739794696628 HTTP/1.1[0m" 200 -
+[2025-02-17 20:18:16,640] INFO: 127.0.0.1 - - [17/Feb/2025 20:18:16] "[37mGET /data/data.csv?t=1739794696628 HTTP/1.1[0m" 200 -
+[2025-02-17 20:19:25,578] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:19:29,671] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:19:30,026] INFO: 127.0.0.1 - - [17/Feb/2025 20:19:30] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:19:30,041] INFO: 127.0.0.1 - - [17/Feb/2025 20:19:30] "[37mOPTIONS /data/data.csv?t=1739794770037 HTTP/1.1[0m" 200 -
+[2025-02-17 20:19:30,044] INFO: 127.0.0.1 - - [17/Feb/2025 20:19:30] "[37mGET /data/data.csv?t=1739794770037 HTTP/1.1[0m" 200 -
+[2025-02-17 20:20:59,061] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:21:03,100] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:21:03,446] INFO: 127.0.0.1 - - [17/Feb/2025 20:21:03] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:21:03,463] INFO: 127.0.0.1 - - [17/Feb/2025 20:21:03] "[37mOPTIONS /data/data.csv?t=1739794863459 HTTP/1.1[0m" 200 -
+[2025-02-17 20:21:03,467] INFO: 127.0.0.1 - - [17/Feb/2025 20:21:03] "[37mGET /data/data.csv?t=1739794863459 HTTP/1.1[0m" 200 -
+[2025-02-17 20:25:49,685] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:25:54,387] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:25:54,745] INFO: 127.0.0.1 - - [17/Feb/2025 20:25:54] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:25:54,762] INFO: 127.0.0.1 - - [17/Feb/2025 20:25:54] "[37mOPTIONS /data/data.csv?t=1739795154758 HTTP/1.1[0m" 200 -
+[2025-02-17 20:25:54,765] INFO: 127.0.0.1 - - [17/Feb/2025 20:25:54] "[37mGET /data/data.csv?t=1739795154758 HTTP/1.1[0m" 200 -
+[2025-02-17 20:33:39,434] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:33:44,605] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:33:45,266] INFO: 127.0.0.1 - - [17/Feb/2025 20:33:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:33:45,280] INFO: 127.0.0.1 - - [17/Feb/2025 20:33:45] "[37mOPTIONS /data/data.csv?t=1739795625277 HTTP/1.1[0m" 200 -
+[2025-02-17 20:33:45,285] INFO: 127.0.0.1 - - [17/Feb/2025 20:33:45] "[37mGET /data/data.csv?t=1739795625277 HTTP/1.1[0m" 200 -
+[2025-02-17 20:40:52,761] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:40:57,577] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:40:57,940] INFO: 127.0.0.1 - - [17/Feb/2025 20:40:57] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:40:57,956] INFO: 127.0.0.1 - - [17/Feb/2025 20:40:57] "[37mOPTIONS /data/data.csv?t=1739796057953 HTTP/1.1[0m" 200 -
+[2025-02-17 20:40:57,961] INFO: 127.0.0.1 - - [17/Feb/2025 20:40:57] "[37mGET /data/data.csv?t=1739796057953 HTTP/1.1[0m" 200 -
+[2025-02-17 20:45:10,781] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:45:17,148] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:45:17,506] INFO: 127.0.0.1 - - [17/Feb/2025 20:45:17] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:45:17,524] INFO: 127.0.0.1 - - [17/Feb/2025 20:45:17] "[37mOPTIONS /data/data.csv?t=1739796317520 HTTP/1.1[0m" 200 -
+[2025-02-17 20:45:17,529] INFO: 127.0.0.1 - - [17/Feb/2025 20:45:17] "[37mGET /data/data.csv?t=1739796317520 HTTP/1.1[0m" 200 -
+[2025-02-17 20:48:38,013] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:48:44,290] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:48:44,709] INFO: 127.0.0.1 - - [17/Feb/2025 20:48:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:48:44,727] INFO: 127.0.0.1 - - [17/Feb/2025 20:48:44] "[37mOPTIONS /data/data.csv?t=1739796524723 HTTP/1.1[0m" 200 -
+[2025-02-17 20:48:44,733] INFO: 127.0.0.1 - - [17/Feb/2025 20:48:44] "[37mGET /data/data.csv?t=1739796524723 HTTP/1.1[0m" 200 -
+[2025-02-17 20:53:14,351] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:53:18,350] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:53:18,671] INFO: 127.0.0.1 - - [17/Feb/2025 20:53:18] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:53:18,688] INFO: 127.0.0.1 - - [17/Feb/2025 20:53:18] "[37mOPTIONS /data/data.csv?t=1739796798685 HTTP/1.1[0m" 200 -
+[2025-02-17 20:53:18,692] INFO: 127.0.0.1 - - [17/Feb/2025 20:53:18] "[37mGET /data/data.csv?t=1739796798685 HTTP/1.1[0m" 200 -
+[2025-02-17 20:54:34,039] INFO: 127.0.0.1 - - [17/Feb/2025 20:54:34] "[37mGET /data/vgsales1_processed.csv HTTP/1.1[0m" 200 -
+[2025-02-17 20:57:08,218] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 20:57:12,663] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 20:57:13,018] INFO: 127.0.0.1 - - [17/Feb/2025 20:57:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 20:57:13,059] INFO: 127.0.0.1 - - [17/Feb/2025 20:57:13] "[37mOPTIONS /data/data.csv?t=1739797033055 HTTP/1.1[0m" 200 -
+[2025-02-17 20:57:13,063] INFO: 127.0.0.1 - - [17/Feb/2025 20:57:13] "[37mGET /data/data.csv?t=1739797033055 HTTP/1.1[0m" 200 -
+[2025-02-17 21:01:28,227] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 21:01:32,615] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 21:01:32,964] INFO: 127.0.0.1 - - [17/Feb/2025 21:01:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 21:01:32,977] INFO: 127.0.0.1 - - [17/Feb/2025 21:01:32] "[37mOPTIONS /data/data.csv?t=1739797292975 HTTP/1.1[0m" 200 -
+[2025-02-17 21:01:32,981] INFO: 127.0.0.1 - - [17/Feb/2025 21:01:32] "[37mGET /data/data.csv?t=1739797292975 HTTP/1.1[0m" 200 -
+[2025-02-17 21:26:26,953] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 21:26:40,360] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 21:26:40,809] INFO: 127.0.0.1 - - [17/Feb/2025 21:26:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 21:26:40,838] INFO: 127.0.0.1 - - [17/Feb/2025 21:26:40] "[37mOPTIONS /data/data.csv?t=1739798800831 HTTP/1.1[0m" 200 -
+[2025-02-17 21:26:40,842] INFO: 127.0.0.1 - - [17/Feb/2025 21:26:40] "[37mGET /data/data.csv?t=1739798800831 HTTP/1.1[0m" 200 -
+[2025-02-17 21:29:09,173] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 21:29:24,442] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 21:29:25,039] INFO: 127.0.0.1 - - [17/Feb/2025 21:29:25] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 21:29:25,094] INFO: 127.0.0.1 - - [17/Feb/2025 21:29:25] "[37mOPTIONS /data/data.csv?t=1739798965088 HTTP/1.1[0m" 200 -
+[2025-02-17 21:29:25,098] INFO: 127.0.0.1 - - [17/Feb/2025 21:29:25] "[37mGET /data/data.csv?t=1739798965088 HTTP/1.1[0m" 200 -
+[2025-02-17 21:30:39,545] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 21:30:43,974] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 21:30:44,372] INFO: 127.0.0.1 - - [17/Feb/2025 21:30:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 21:30:44,387] INFO: 127.0.0.1 - - [17/Feb/2025 21:30:44] "[37mOPTIONS /data/data.csv?t=1739799044384 HTTP/1.1[0m" 200 -
+[2025-02-17 21:30:44,391] INFO: 127.0.0.1 - - [17/Feb/2025 21:30:44] "[37mGET /data/data.csv?t=1739799044384 HTTP/1.1[0m" 200 -
+[2025-02-17 21:32:39,338] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 21:32:45,198] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 21:32:45,670] INFO: 127.0.0.1 - - [17/Feb/2025 21:32:45] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 21:32:45,692] INFO: 127.0.0.1 - - [17/Feb/2025 21:32:45] "[37mOPTIONS /data/data.csv?t=1739799165685 HTTP/1.1[0m" 200 -
+[2025-02-17 21:32:45,701] INFO: 127.0.0.1 - - [17/Feb/2025 21:32:45] "[37mGET /data/data.csv?t=1739799165685 HTTP/1.1[0m" 200 -
+[2025-02-17 21:38:27,655] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 21:38:32,787] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 21:38:33,331] INFO: 127.0.0.1 - - [17/Feb/2025 21:38:33] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 21:38:33,349] INFO: 127.0.0.1 - - [17/Feb/2025 21:38:33] "[37mOPTIONS /data/data.csv?t=1739799513345 HTTP/1.1[0m" 200 -
+[2025-02-17 21:38:33,353] INFO: 127.0.0.1 - - [17/Feb/2025 21:38:33] "[37mGET /data/data.csv?t=1739799513345 HTTP/1.1[0m" 200 -
+[2025-02-17 22:32:55,100] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:33:01,212] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:33:01,603] INFO: 127.0.0.1 - - [17/Feb/2025 22:33:01] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:33:01,619] INFO: 127.0.0.1 - - [17/Feb/2025 22:33:01] "[37mOPTIONS /data/data.csv?t=1739802781615 HTTP/1.1[0m" 200 -
+[2025-02-17 22:33:01,623] INFO: 127.0.0.1 - - [17/Feb/2025 22:33:01] "[37mGET /data/data.csv?t=1739802781615 HTTP/1.1[0m" 200 -
+[2025-02-17 22:35:52,156] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:35:56,259] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:35:56,603] INFO: 127.0.0.1 - - [17/Feb/2025 22:35:56] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:35:56,617] INFO: 127.0.0.1 - - [17/Feb/2025 22:35:56] "[37mOPTIONS /data/data.csv?t=1739802956614 HTTP/1.1[0m" 200 -
+[2025-02-17 22:35:56,621] INFO: 127.0.0.1 - - [17/Feb/2025 22:35:56] "[37mGET /data/data.csv?t=1739802956614 HTTP/1.1[0m" 200 -
+[2025-02-17 22:38:19,676] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:38:23,490] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:38:23,833] INFO: 127.0.0.1 - - [17/Feb/2025 22:38:23] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:38:23,846] INFO: 127.0.0.1 - - [17/Feb/2025 22:38:23] "[37mOPTIONS /data/data.csv?t=1739803103843 HTTP/1.1[0m" 200 -
+[2025-02-17 22:38:23,850] INFO: 127.0.0.1 - - [17/Feb/2025 22:38:23] "[37mGET /data/data.csv?t=1739803103843 HTTP/1.1[0m" 200 -
+[2025-02-17 22:40:11,232] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:40:15,761] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:40:16,139] INFO: 127.0.0.1 - - [17/Feb/2025 22:40:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:40:16,153] INFO: 127.0.0.1 - - [17/Feb/2025 22:40:16] "[37mOPTIONS /data/data.csv?t=1739803216149 HTTP/1.1[0m" 200 -
+[2025-02-17 22:40:16,155] INFO: 127.0.0.1 - - [17/Feb/2025 22:40:16] "[37mGET /data/data.csv?t=1739803216149 HTTP/1.1[0m" 200 -
+[2025-02-17 22:41:29,273] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:41:33,670] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:41:34,039] INFO: 127.0.0.1 - - [17/Feb/2025 22:41:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:41:34,054] INFO: 127.0.0.1 - - [17/Feb/2025 22:41:34] "[37mOPTIONS /data/data.csv?t=1739803294051 HTTP/1.1[0m" 200 -
+[2025-02-17 22:41:34,059] INFO: 127.0.0.1 - - [17/Feb/2025 22:41:34] "[37mGET /data/data.csv?t=1739803294051 HTTP/1.1[0m" 200 -
+[2025-02-17 22:42:48,349] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:42:52,396] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:42:52,737] INFO: 127.0.0.1 - - [17/Feb/2025 22:42:52] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:42:52,750] INFO: 127.0.0.1 - - [17/Feb/2025 22:42:52] "[37mOPTIONS /data/data.csv?t=1739803372748 HTTP/1.1[0m" 200 -
+[2025-02-17 22:42:52,754] INFO: 127.0.0.1 - - [17/Feb/2025 22:42:52] "[37mGET /data/data.csv?t=1739803372748 HTTP/1.1[0m" 200 -
+[2025-02-17 22:43:42,065] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-17 22:43:45,801] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-17 22:43:46,268] INFO: 127.0.0.1 - - [17/Feb/2025 22:43:46] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-17 22:43:46,282] INFO: 127.0.0.1 - - [17/Feb/2025 22:43:46] "[37mOPTIONS /data/data.csv?t=1739803426280 HTTP/1.1[0m" 200 -
+[2025-02-17 22:43:46,288] INFO: 127.0.0.1 - - [17/Feb/2025 22:43:46] "[37mGET /data/data.csv?t=1739803426280 HTTP/1.1[0m" 200 -
+[2025-02-18 20:30:38,195] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:30:52,387] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:30:52,904] INFO: 127.0.0.1 - - [18/Feb/2025 20:30:52] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:30:52,931] INFO: 127.0.0.1 - - [18/Feb/2025 20:30:52] "[37mOPTIONS /data/data.csv?t=1739881852926 HTTP/1.1[0m" 200 -
+[2025-02-18 20:30:52,941] INFO: 127.0.0.1 - - [18/Feb/2025 20:30:52] "[37mGET /data/data.csv?t=1739881852926 HTTP/1.1[0m" 200 -
+[2025-02-18 20:33:47,746] INFO: 127.0.0.1 - - [18/Feb/2025 20:33:47] "[37mGET /data/vgsales1_processed.csv HTTP/1.1[0m" 200 -
+[2025-02-18 20:35:22,286] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:35:28,326] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:35:28,776] INFO: 127.0.0.1 - - [18/Feb/2025 20:35:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:35:28,796] INFO: 127.0.0.1 - - [18/Feb/2025 20:35:28] "[37mOPTIONS /data/data.csv?t=1739882128792 HTTP/1.1[0m" 200 -
+[2025-02-18 20:35:28,802] INFO: 127.0.0.1 - - [18/Feb/2025 20:35:28] "[37mGET /data/data.csv?t=1739882128792 HTTP/1.1[0m" 200 -
+[2025-02-18 20:41:37,100] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:41:44,362] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:41:44,902] INFO: 127.0.0.1 - - [18/Feb/2025 20:41:44] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:41:44,931] INFO: 127.0.0.1 - - [18/Feb/2025 20:41:44] "[37mOPTIONS /data/data.csv?t=1739882504925 HTTP/1.1[0m" 200 -
+[2025-02-18 20:41:44,937] INFO: 127.0.0.1 - - [18/Feb/2025 20:41:44] "[37mGET /data/data.csv?t=1739882504925 HTTP/1.1[0m" 200 -
+[2025-02-18 20:44:09,824] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:44:15,719] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:44:16,178] INFO: 127.0.0.1 - - [18/Feb/2025 20:44:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:44:16,200] INFO: 127.0.0.1 - - [18/Feb/2025 20:44:16] "[37mOPTIONS /data/data.csv?t=1739882656195 HTTP/1.1[0m" 200 -
+[2025-02-18 20:44:16,204] INFO: 127.0.0.1 - - [18/Feb/2025 20:44:16] "[37mGET /data/data.csv?t=1739882656195 HTTP/1.1[0m" 200 -
+[2025-02-18 20:46:58,605] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:47:03,425] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:47:03,823] INFO: 127.0.0.1 - - [18/Feb/2025 20:47:03] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:47:03,842] INFO: 127.0.0.1 - - [18/Feb/2025 20:47:03] "[37mOPTIONS /data/data.csv?t=1739882823839 HTTP/1.1[0m" 200 -
+[2025-02-18 20:47:03,847] INFO: 127.0.0.1 - - [18/Feb/2025 20:47:03] "[37mGET /data/data.csv?t=1739882823839 HTTP/1.1[0m" 200 -
+[2025-02-18 20:48:32,569] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:48:39,008] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:48:39,556] INFO: 127.0.0.1 - - [18/Feb/2025 20:48:39] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:48:39,583] INFO: 127.0.0.1 - - [18/Feb/2025 20:48:39] "[37mOPTIONS /data/data.csv?t=1739882919577 HTTP/1.1[0m" 200 -
+[2025-02-18 20:48:39,591] INFO: 127.0.0.1 - - [18/Feb/2025 20:48:39] "[37mGET /data/data.csv?t=1739882919577 HTTP/1.1[0m" 200 -
+[2025-02-18 20:52:30,122] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:52:36,748] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:52:37,295] INFO: 127.0.0.1 - - [18/Feb/2025 20:52:37] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:52:37,318] INFO: 127.0.0.1 - - [18/Feb/2025 20:52:37] "[37mOPTIONS /data/data.csv?t=1739883157313 HTTP/1.1[0m" 200 -
+[2025-02-18 20:52:37,324] INFO: 127.0.0.1 - - [18/Feb/2025 20:52:37] "[37mGET /data/data.csv?t=1739883157313 HTTP/1.1[0m" 200 -
+[2025-02-18 20:58:26,876] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 20:58:31,518] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 20:58:31,943] INFO: 127.0.0.1 - - [18/Feb/2025 20:58:31] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 20:58:31,968] INFO: 127.0.0.1 - - [18/Feb/2025 20:58:31] "[37mOPTIONS /data/data.csv?t=1739883511959 HTTP/1.1[0m" 200 -
+[2025-02-18 20:58:31,973] INFO: 127.0.0.1 - - [18/Feb/2025 20:58:31] "[37mGET /data/data.csv?t=1739883511959 HTTP/1.1[0m" 200 -
+[2025-02-18 21:03:33,542] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 21:03:39,591] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 21:03:40,123] INFO: 127.0.0.1 - - [18/Feb/2025 21:03:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 21:03:40,147] INFO: 127.0.0.1 - - [18/Feb/2025 21:03:40] "[37mOPTIONS /data/data.csv?t=1739883820142 HTTP/1.1[0m" 200 -
+[2025-02-18 21:03:40,155] INFO: 127.0.0.1 - - [18/Feb/2025 21:03:40] "[37mGET /data/data.csv?t=1739883820142 HTTP/1.1[0m" 200 -
+[2025-02-18 21:05:37,341] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 21:05:42,374] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 21:05:42,801] INFO: 127.0.0.1 - - [18/Feb/2025 21:05:42] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 21:05:42,822] INFO: 127.0.0.1 - - [18/Feb/2025 21:05:42] "[37mOPTIONS /data/data.csv?t=1739883942818 HTTP/1.1[0m" 200 -
+[2025-02-18 21:05:42,827] INFO: 127.0.0.1 - - [18/Feb/2025 21:05:42] "[37mGET /data/data.csv?t=1739883942818 HTTP/1.1[0m" 200 -
+[2025-02-18 21:06:53,366] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 21:06:59,888] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 21:07:00,425] INFO: 127.0.0.1 - - [18/Feb/2025 21:07:00] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 21:07:00,451] INFO: 127.0.0.1 - - [18/Feb/2025 21:07:00] "[37mOPTIONS /data/data.csv?t=1739884020444 HTTP/1.1[0m" 200 -
+[2025-02-18 21:07:00,459] INFO: 127.0.0.1 - - [18/Feb/2025 21:07:00] "[37mGET /data/data.csv?t=1739884020444 HTTP/1.1[0m" 200 -
+[2025-02-18 21:10:11,597] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 21:10:17,143] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 21:10:17,591] INFO: 127.0.0.1 - - [18/Feb/2025 21:10:17] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 21:10:17,613] INFO: 127.0.0.1 - - [18/Feb/2025 21:10:17] "[37mOPTIONS /data/data.csv?t=1739884217607 HTTP/1.1[0m" 200 -
+[2025-02-18 21:10:17,622] INFO: 127.0.0.1 - - [18/Feb/2025 21:10:17] "[37mGET /data/data.csv?t=1739884217607 HTTP/1.1[0m" 200 -
+[2025-02-18 21:14:25,005] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 21:14:30,567] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 21:14:31,023] INFO: 127.0.0.1 - - [18/Feb/2025 21:14:31] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 21:14:31,043] INFO: 127.0.0.1 - - [18/Feb/2025 21:14:31] "[37mOPTIONS /data/data.csv?t=1739884471039 HTTP/1.1[0m" 200 -
+[2025-02-18 21:14:31,049] INFO: 127.0.0.1 - - [18/Feb/2025 21:14:31] "[37mGET /data/data.csv?t=1739884471039 HTTP/1.1[0m" 200 -
+[2025-02-18 21:18:02,869] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 21:18:07,974] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 21:18:08,400] INFO: 127.0.0.1 - - [18/Feb/2025 21:18:08] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 21:18:08,419] INFO: 127.0.0.1 - - [18/Feb/2025 21:18:08] "[37mOPTIONS /data/data.csv?t=1739884688415 HTTP/1.1[0m" 200 -
+[2025-02-18 21:18:08,424] INFO: 127.0.0.1 - - [18/Feb/2025 21:18:08] "[37mGET /data/data.csv?t=1739884688415 HTTP/1.1[0m" 200 -
+[2025-02-18 22:03:59,283] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 22:04:05,777] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 22:04:06,135] INFO: 127.0.0.1 - - [18/Feb/2025 22:04:06] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 22:04:06,154] INFO: 127.0.0.1 - - [18/Feb/2025 22:04:06] "[37mOPTIONS /data/data.csv?t=1739887446149 HTTP/1.1[0m" 200 -
+[2025-02-18 22:04:06,162] INFO: 127.0.0.1 - - [18/Feb/2025 22:04:06] "[37mGET /data/data.csv?t=1739887446149 HTTP/1.1[0m" 200 -
+[2025-02-18 22:11:24,355] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-18 22:11:28,503] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-18 22:11:28,848] INFO: 127.0.0.1 - - [18/Feb/2025 22:11:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-18 22:11:28,865] INFO: 127.0.0.1 - - [18/Feb/2025 22:11:28] "[37mOPTIONS /data/data.csv?t=1739887888862 HTTP/1.1[0m" 200 -
+[2025-02-18 22:11:28,869] INFO: 127.0.0.1 - - [18/Feb/2025 22:11:28] "[37mGET /data/data.csv?t=1739887888862 HTTP/1.1[0m" 200 -
+[2025-02-20 08:07:39,253] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:07:48,844] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:07:49,312] INFO: 127.0.0.1 - - [20/Feb/2025 08:07:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:07:49,336] INFO: 127.0.0.1 - - [20/Feb/2025 08:07:49] "[37mOPTIONS /data/data.csv?t=1740010069329 HTTP/1.1[0m" 200 -
+[2025-02-20 08:07:49,347] INFO: 127.0.0.1 - - [20/Feb/2025 08:07:49] "[37mGET /data/data.csv?t=1740010069329 HTTP/1.1[0m" 200 -
+[2025-02-20 08:08:09,646] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:08:14,051] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:08:14,411] INFO: 127.0.0.1 - - [20/Feb/2025 08:08:14] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:08:14,430] INFO: 127.0.0.1 - - [20/Feb/2025 08:08:14] "[37mOPTIONS /data/data.csv?t=1740010094424 HTTP/1.1[0m" 200 -
+[2025-02-20 08:08:14,433] INFO: 127.0.0.1 - - [20/Feb/2025 08:08:14] "[37mGET /data/data.csv?t=1740010094424 HTTP/1.1[0m" 200 -
+[2025-02-20 08:08:32,018] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:08:36,406] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:08:36,794] INFO: 127.0.0.1 - - [20/Feb/2025 08:08:36] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:08:36,811] INFO: 127.0.0.1 - - [20/Feb/2025 08:08:36] "[37mOPTIONS /data/data.csv?t=1740010116807 HTTP/1.1[0m" 200 -
+[2025-02-20 08:08:36,815] INFO: 127.0.0.1 - - [20/Feb/2025 08:08:36] "[37mGET /data/data.csv?t=1740010116807 HTTP/1.1[0m" 200 -
+[2025-02-20 08:09:12,338] INFO: 127.0.0.1 - - [20/Feb/2025 08:09:12] "[37mGET /data/vgsales1_processed.csv HTTP/1.1[0m" 200 -
+[2025-02-20 08:20:43,906] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:20:48,240] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:20:48,616] INFO: 127.0.0.1 - - [20/Feb/2025 08:20:48] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:20:48,634] INFO: 127.0.0.1 - - [20/Feb/2025 08:20:48] "[37mOPTIONS /data/data.csv?t=1740010848630 HTTP/1.1[0m" 200 -
+[2025-02-20 08:20:48,638] INFO: 127.0.0.1 - - [20/Feb/2025 08:20:48] "[37mGET /data/data.csv?t=1740010848630 HTTP/1.1[0m" 200 -
+[2025-02-20 08:26:44,736] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:26:49,322] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:26:49,704] INFO: 127.0.0.1 - - [20/Feb/2025 08:26:49] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:26:49,720] INFO: 127.0.0.1 - - [20/Feb/2025 08:26:49] "[37mOPTIONS /data/data.csv?t=1740011209717 HTTP/1.1[0m" 200 -
+[2025-02-20 08:26:49,724] INFO: 127.0.0.1 - - [20/Feb/2025 08:26:49] "[37mGET /data/data.csv?t=1740011209717 HTTP/1.1[0m" 200 -
+[2025-02-20 08:28:35,578] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:28:39,754] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:28:40,092] INFO: 127.0.0.1 - - [20/Feb/2025 08:28:40] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:28:40,109] INFO: 127.0.0.1 - - [20/Feb/2025 08:28:40] "[37mOPTIONS /data/data.csv?t=1740011320106 HTTP/1.1[0m" 200 -
+[2025-02-20 08:28:40,112] INFO: 127.0.0.1 - - [20/Feb/2025 08:28:40] "[37mGET /data/data.csv?t=1740011320106 HTTP/1.1[0m" 200 -
+[2025-02-20 08:35:28,327] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 08:35:32,394] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 08:35:32,741] INFO: 127.0.0.1 - - [20/Feb/2025 08:35:32] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 08:35:32,758] INFO: 127.0.0.1 - - [20/Feb/2025 08:35:32] "[37mOPTIONS /data/data.csv?t=1740011732755 HTTP/1.1[0m" 200 -
+[2025-02-20 08:35:32,762] INFO: 127.0.0.1 - - [20/Feb/2025 08:35:32] "[37mGET /data/data.csv?t=1740011732755 HTTP/1.1[0m" 200 -
+[2025-02-20 09:08:36,068] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 09:08:40,811] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 09:08:41,182] INFO: 127.0.0.1 - - [20/Feb/2025 09:08:41] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 09:08:41,198] INFO: 127.0.0.1 - - [20/Feb/2025 09:08:41] "[37mOPTIONS /data/data.csv?t=1740013721195 HTTP/1.1[0m" 200 -
+[2025-02-20 09:08:41,204] INFO: 127.0.0.1 - - [20/Feb/2025 09:08:41] "[37mGET /data/data.csv?t=1740013721195 HTTP/1.1[0m" 200 -
+[2025-02-20 09:13:45,179] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 09:13:49,727] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 09:13:50,083] INFO: 127.0.0.1 - - [20/Feb/2025 09:13:50] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 09:13:50,098] INFO: 127.0.0.1 - - [20/Feb/2025 09:13:50] "[37mOPTIONS /data/data.csv?t=1740014030095 HTTP/1.1[0m" 200 -
+[2025-02-20 09:13:50,102] INFO: 127.0.0.1 - - [20/Feb/2025 09:13:50] "[37mGET /data/data.csv?t=1740014030095 HTTP/1.1[0m" 200 -
+[2025-02-20 09:15:55,061] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 09:15:59,143] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 09:15:59,494] INFO: 127.0.0.1 - - [20/Feb/2025 09:15:59] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 09:15:59,510] INFO: 127.0.0.1 - - [20/Feb/2025 09:15:59] "[37mOPTIONS /data/data.csv?t=1740014159507 HTTP/1.1[0m" 200 -
+[2025-02-20 09:15:59,515] INFO: 127.0.0.1 - - [20/Feb/2025 09:15:59] "[37mGET /data/data.csv?t=1740014159507 HTTP/1.1[0m" 200 -
+[2025-02-20 09:18:10,397] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 09:18:14,534] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 09:18:14,880] INFO: 127.0.0.1 - - [20/Feb/2025 09:18:14] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 09:18:14,900] INFO: 127.0.0.1 - - [20/Feb/2025 09:18:14] "[37mOPTIONS /data/data.csv?t=1740014294897 HTTP/1.1[0m" 200 -
+[2025-02-20 09:18:14,905] INFO: 127.0.0.1 - - [20/Feb/2025 09:18:14] "[37mGET /data/data.csv?t=1740014294897 HTTP/1.1[0m" 200 -
+[2025-02-20 09:19:27,219] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 09:19:30,990] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 09:19:31,356] INFO: 127.0.0.1 - - [20/Feb/2025 09:19:31] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 09:19:31,373] INFO: 127.0.0.1 - - [20/Feb/2025 09:19:31] "[37mOPTIONS /data/data.csv?t=1740014371370 HTTP/1.1[0m" 200 -
+[2025-02-20 09:19:31,379] INFO: 127.0.0.1 - - [20/Feb/2025 09:19:31] "[37mGET /data/data.csv?t=1740014371370 HTTP/1.1[0m" 200 -
+[2025-02-20 11:30:01,951] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 11:30:07,853] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 11:30:08,070] INFO: 127.0.0.1 - - [20/Feb/2025 11:30:08] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 11:30:08,088] INFO: 127.0.0.1 - - [20/Feb/2025 11:30:08] "[37mOPTIONS /data/data.csv?t=1740022208083 HTTP/1.1[0m" 200 -
+[2025-02-20 11:30:08,094] INFO: 127.0.0.1 - - [20/Feb/2025 11:30:08] "[37mGET /data/data.csv?t=1740022208083 HTTP/1.1[0m" 200 -
+[2025-02-20 11:32:09,406] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 11:32:12,357] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 11:32:12,545] INFO: 127.0.0.1 - - [20/Feb/2025 11:32:12] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 11:32:12,558] INFO: 127.0.0.1 - - [20/Feb/2025 11:32:12] "[37mOPTIONS /data/data.csv?t=1740022332555 HTTP/1.1[0m" 200 -
+[2025-02-20 11:32:12,561] INFO: 127.0.0.1 - - [20/Feb/2025 11:32:12] "[37mGET /data/data.csv?t=1740022332555 HTTP/1.1[0m" 200 -
+[2025-02-20 11:32:25,898] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 11:32:28,708] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 11:32:28,882] INFO: 127.0.0.1 - - [20/Feb/2025 11:32:28] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 11:32:28,893] INFO: 127.0.0.1 - - [20/Feb/2025 11:32:28] "[37mOPTIONS /data/data.csv?t=1740022348890 HTTP/1.1[0m" 200 -
+[2025-02-20 11:32:28,898] INFO: 127.0.0.1 - - [20/Feb/2025 11:32:28] "[37mGET /data/data.csv?t=1740022348890 HTTP/1.1[0m" 200 -
+[2025-02-20 11:34:34,420] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 11:34:37,101] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 11:34:37,274] INFO: 127.0.0.1 - - [20/Feb/2025 11:34:37] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 11:34:37,288] INFO: 127.0.0.1 - - [20/Feb/2025 11:34:37] "[37mOPTIONS /data/data.csv?t=1740022477285 HTTP/1.1[0m" 200 -
+[2025-02-20 11:34:37,292] INFO: 127.0.0.1 - - [20/Feb/2025 11:34:37] "[37mGET /data/data.csv?t=1740022477285 HTTP/1.1[0m" 200 -
+[2025-02-20 11:35:28,824] INFO: 127.0.0.1 - - [20/Feb/2025 11:35:28] "[37mGET /data/data01.csv HTTP/1.1[0m" 200 -
+[2025-02-20 11:38:11,123] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 11:38:16,560] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 11:38:16,977] INFO: 127.0.0.1 - - [20/Feb/2025 11:38:16] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 11:38:16,992] INFO: 127.0.0.1 - - [20/Feb/2025 11:38:16] "[37mOPTIONS /data/data.csv?t=1740022696989 HTTP/1.1[0m" 200 -
+[2025-02-20 11:38:16,996] INFO: 127.0.0.1 - - [20/Feb/2025 11:38:16] "[37mGET /data/data.csv?t=1740022696989 HTTP/1.1[0m" 200 -
+[2025-02-20 12:58:05,630] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 12:58:12,939] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 12:58:13,317] INFO: 127.0.0.1 - - [20/Feb/2025 12:58:13] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 12:58:13,338] INFO: 127.0.0.1 - - [20/Feb/2025 12:58:13] "[37mOPTIONS /data/data.csv?t=1740027493333 HTTP/1.1[0m" 200 -
+[2025-02-20 12:58:13,342] INFO: 127.0.0.1 - - [20/Feb/2025 12:58:13] "[37mGET /data/data.csv?t=1740027493333 HTTP/1.1[0m" 200 -
+[2025-02-20 12:58:31,553] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 12:58:34,210] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 12:58:34,384] INFO: 127.0.0.1 - - [20/Feb/2025 12:58:34] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 12:58:34,397] INFO: 127.0.0.1 - - [20/Feb/2025 12:58:34] "[37mOPTIONS /data/data.csv?t=1740027514394 HTTP/1.1[0m" 200 -
+[2025-02-20 12:58:34,399] INFO: 127.0.0.1 - - [20/Feb/2025 12:58:34] "[37mGET /data/data.csv?t=1740027514394 HTTP/1.1[0m" 200 -
+[2025-02-20 12:59:05,277] INFO: [127.0.0.1] requests to upload [data.csv].
+[2025-02-20 12:59:08,403] INFO: [127.0.0.1] sucessfully uploaded and preprocessed the file [data.csv] in Calliope.
+[2025-02-20 12:59:08,610] INFO: 127.0.0.1 - - [20/Feb/2025 12:59:08] "[37mPOST /upload HTTP/1.1[0m" 200 -
+[2025-02-20 12:59:08,625] INFO: 127.0.0.1 - - [20/Feb/2025 12:59:08] "[37mOPTIONS /data/data.csv?t=1740027548621 HTTP/1.1[0m" 200 -
+[2025-02-20 12:59:08,629] INFO: 127.0.0.1 - - [20/Feb/2025 12:59:08] "[37mGET /data/data.csv?t=1740027548621 HTTP/1.1[0m" 200 -
